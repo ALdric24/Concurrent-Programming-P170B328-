@@ -1,0 +1,33 @@
+                                              Main Data
+Total: 24                 Name                 year                grade 
+               Adorne                    8                  7.7 
+                 Ania                    7                  4.2 
+              Ardelle                    8                  3.5 
+                Ashli                    8                  8.4 
+                Biddy                    7                  9.8 
+                Brita                    7                    4 
+               Burtie                    6                  5.7 
+                 Cher                    7                  8.6 
+                 Cris                    6                  9.6 
+                 Dori                    7                  4.9 
+                Elwin                    8                  3.6 
+               Emelda                    8                  5.4 
+                 Fran                    7                  2.6 
+                 Illa                    6                  2.1 
+                Jinny                    8                  6.1 
+               Katine                    7                  6.5 
+                 Kris                    7                  9.3 
+                 Lila                    7                  8.2 
+               Melony                    7                  6.1 
+                Morry                    8                  2.6 
+              Tamarra                    7                  3.1 
+               Thekla                    7                  6.2 
+                Vinny                    7                  2.8 
+                 Viva                    7                  5.3 
+
+
+                                   Filtered Data
+                 Name                 year                grade 
+                 Cris                    6                  9.6 
+                 Cher                    7                  8.6 
+Total: 2
