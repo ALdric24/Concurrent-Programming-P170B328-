@@ -1,0 +1,8 @@
+C:\Users\tmawa\source\repos\p1\p1\bin\Debug\p1.exe.config
+C:\Users\tmawa\source\repos\p1\p1\bin\Debug\p1.exe
+C:\Users\tmawa\source\repos\p1\p1\bin\Debug\p1.pdb
+C:\Users\tmawa\source\repos\p1\p1\obj\Debug\p1.csproj.AssemblyReference.cache
+C:\Users\tmawa\source\repos\p1\p1\obj\Debug\p1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmawa\source\repos\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\Users\tmawa\source\repos\p1\p1\obj\Debug\p1.exe
+C:\Users\tmawa\source\repos\p1\p1\obj\Debug\p1.pdb
