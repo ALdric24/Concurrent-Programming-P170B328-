@@ -1,0 +1,30 @@
+Initial
+-----------------------------------------------------------------
+ Name      	|    Year |   Grade    |          Hash Code        |
+-----------------------------------------------------------------
+ Adrian         |       1 |    3.74 | UERFQW17HBBDIDWEZP2CD5CEU | 
+ Cesare         |       3 |    6.10 | OS0LC08D5D828RUCVFQ9H9HBW | 
+ Darsie         |       2 |    9.13 | KLT1SF9CYAT0AWOG5AMBB2AZG | 
+ Dionysus       |       1 |    9.17 | PCA17SL4VG97TQJ1IW89KINRE | 
+ Florentia      |       3 |    3.30 | B6Y8BPLZZJLX6Y543V09KAO0N | 
+ Gayelord       |       3 |    3.81 | NDOW0RGFZAY7F5OK469JD0LQO | 
+ Genni          |       1 |    3.73 | MGCSI02ROYP5WX5704H3RZ4ZX | 
+ Georgia        |       3 |    5.68 | EYZOU0QV85KYNU10QFM64KRUI | 
+ Gisella        |       2 |    5.36 | 2OLHHHD8M0U1U1ZVL0NXGJVJS | 
+ Harlan         |       3 |    4.11 | 5J3OPS2BYFLPALLJC5RN8PBR2 | 
+ Hettie         |       1 |    2.62 | KBS14DH1ABJCBJPTJ012WTVFU | 
+ Israel         |       3 |    8.33 | 3FKM81PNGA63THMHZRE4KCN38 | 
+ Ivette         |       3 |    3.15 | JLQQYFVEYWYFY8BLUV01XS45R | 
+ Jennie         |       3 |    6.24 | R0JHP1QIV9HIK75Y5LI442H37 | 
+ Joby           |       1 |    7.30 | ZPC6VNUH0CLH834Z2Z2ZTVHK6 | 
+ Lawton         |       2 |    5.87 | V4B2L4GEGDAHNTE3Q1UURGIRH | 
+ Louise         |       3 |    6.38 | NAWJPOWUUL57O2NQ1CZHOAQPT | 
+ Max            |       2 |    2.53 | 2461E58YSWFQKEFTF1UXCAOYF | 
+ Nanette        |       2 |    4.50 | JI6VFCS63QTPVRW9HD3VWBE7I | 
+ Quinlan        |       3 |    2.59 | ID60NGYTWXUR96TXVYXVASF24 | 
+ Shannah        |       1 |    8.93 | EO405Q602LEKQHMHYM0QZJPFI | 
+ Tommy          |       2 |    3.00 | 3GOH3YBMUFVIGN84LHBNCXGMT | 
+ Wakefield      |       3 |    1.05 | 98J0NZTPK37PQKFAED44QS2EA | 
+ Walton         |       1 |    7.32 | K735YXMM42Y10RFEAAQ59HO7C | 
+-----------------------------------------------------------------
+

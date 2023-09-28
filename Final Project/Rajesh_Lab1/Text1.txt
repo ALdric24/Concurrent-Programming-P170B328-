@@ -1,0 +1,423 @@
+
+
+
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+<title>Prisijungti</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="https://moodle.ktu.edu/local/customloginpage/pix/favicon.ico">
+<style>
+
+    :root {
+        --maincolor: #393939;
+        --maintextcolor: black;
+        --mainhovercolor: #393939;
+        --mainhovertextcolor: white;
+        --seccolor: #ffffff;
+        --sectextcolor: white;
+        --arrowsize: 0.4rem;
+    }
+
+
+    html{
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	    background: url("/local/customloginpage/pix/math_background.jpg") no-repeat center center fixed;
+	    background-size: cover;
+        height: 100%;
+        color: #393939; /* fallback */
+        color: var(--maintextcolor);
+    }
+
+    #page-moodle-login {
+        /*margin-top: 50px;*/
+        margin-top: 3.125rem;
+        /*max-width: 600px;*/
+        max-width: 37.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #ffffff; /* fallback */
+        background-color: var(--seccolor);
+        /*padding: 50px;*/
+        padding: 3.125rem;
+    }
+
+    #page-moodle-login .header {
+        display:flex;
+        justify-content: space-between;
+        /*margin-bottom: 70px;*/
+        margin-bottom: 4.375rem;
+        margin-top: 1rem;
+    }
+
+    .header .site-title {
+        color: #000000;
+        text-decoration: none;
+        width: 80%;
+        font-weight: bold;
+        /*font-size: 24px;*/
+        font-size: 1.5rem;
+    }
+
+    .loginform label {
+        font-weight: bold;
+        /*font-size: 18px;*/
+        font-size: 1.125rem;
+    }
+
+    input[type=button], input[type=submit], input[type=reset], a.button, button.button {
+        background-color: #000000;
+        color: white; /* fallback */
+        color: var(--sectextcolor);
+        /*padding: 12px 0;*/
+        padding: 0.75rem 0;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        font-size: 1.2rem;
+        /*border: #000000 1px solid;*/
+        border: #000000 0.063rem solid;
+        /*width: 50%;*/
+    }
+
+    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, a.button:hover, button.button:hover {
+        background-color: #393939; /* fallback */
+        background-color: var(--maincolor);
+    }
+
+    input[type=button]:active, input[type=submit]:active, input[type=reset]:active, a.button:active, button.button:active {
+        transform: scale(0.95);
+    }
+
+    input[type=text], input[type=password] {
+        background-color: #ffffff;
+        border: none;
+        /*color: #0d0d0d;*/
+        color: #002337;
+        padding: 0;
+        text-align: left;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1.5em;
+        /*margin: 10px 0;*/
+        margin: 0.625rem 0;
+        width: 100%;
+        /*border-bottom: 1px #707070 solid;*/
+        border-bottom: 0.063rem #707070 solid;
+    }
+
+    input[type=text]:focus,
+    input[type=password]:focus {
+        border: none;
+        outline: none;
+        background-color: #ffffff; /* fallback */
+        background-color: var(--seccolor);
+        box-shadow: none;
+        /*border-bottom: 1px solid #000000;*/
+        border-bottom: 0.063rem solid #000000;
+    }
+
+    input[type=text]::placeholder,
+    input[type=password]::placeholder {
+        color: #cccccc;
+    }
+
+    .locallogin button.button {
+        color: #393939; /* fallback */
+        color: var(--maintextcolor);
+        background-color: #ffffff; /* fallback */
+	    background-color: var(--seccolor); 
+    }
+
+    .locallogin button.button:hover {
+        background-color: #393939; /* fallback */
+        background-color: var(--mainhovercolor);
+        color: white; /* fallback */
+        color: var(--mainhovertextcolor);
+    }
+
+    .logo {
+        /*width: 64px;*/
+        width: 4rem;
+        display: block;
+        /*margin-right: -4px;*/
+        margin-right: -0.25rem;
+        height: 100%
+    }
+
+    .add-links {
+        /*margin: 15px 0 50px 0;*/
+        margin: 0.938rem 0 3.125rem 0;
+        font-size: 1rem;
+
+    }
+
+    .forgetpass {
+        /*margin-bottom: 10px;*/
+        margin-bottom: 0.063rem;
+    }
+
+    .forgetpass a, .register a {
+        /*color: #002337;*/
+        color: #707070;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .forgetpass a:hover, .register a:hover {
+        text-decoration: underline;
+        text-decoration-color: #707070;
+        /*text-decoration-thickness: 3px;*/
+        text-decoration-thickness: 0.188rem;
+        text-decoration-skip-ink: none;
+    }
+
+    .loginform {
+        /*margin-top: 30px;*/
+        margin-top: 1.875rem;
+    }
+
+    .login-register {
+        display: flex;
+        justify-content: space-between;
+        /*margin-bottom: 20px;*/
+        margin-bottom: 1.25rem;
+    }
+
+     .button {
+        width: 100%;
+    }
+
+
+    #username {
+        /*margin-bottom: 30px;*/
+        margin-bottom: 1.875rem;
+    }
+
+    .failedlogin {
+        background-color: #f7dddc;
+        color: #712b29;
+        padding: 0.75rem 1.25rem;
+        display: none;
+    }
+
+    .methods {
+        display: flex;
+        justify-content: space-between; 
+    }
+
+    .methods .ktulogin, .methods .locallogin {
+       /*float: left;*/
+    	width: 45%;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .expanded {
+        display: block;
+    }
+
+    .rightarrow {
+        display: inline-block;
+        width: 0;
+        height: 0;
+        margin-left: 2px;
+        vertical-align: middle;
+        border-top: var(--arrowsize) solid transparent;
+        border-bottom: var(--arrowsize) solid transparent;
+        border-left: var(--arrowsize) solid;      
+    }
+
+    .downarrow {
+        display: inline-block;
+        width: 0;
+        height: 0;
+        margin-left: 2px;
+        vertical-align: middle;
+        border-top: var(--arrowsize) solid;
+        border-right: var(--arrowsize) solid transparent;
+        border-left: var(--arrowsize) solid transparent;      
+    }
+
+    .help {
+        margin-top: 2rem;
+    }
+
+    .help a {
+        color: #707070;
+        font-weight: 600;
+        text-decoration: none;
+
+    }
+
+    .help a:hover {
+        text-decoration: underline;
+        text-decoration-color: #707070;
+        text-decoration-thickness: 0.188rem;
+        text-decoration-skip-ink: none;
+    }
+
+
+    /* Language dropdown */
+    .dropbtn {
+        /*background-color: #4CAF50;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;*/
+        cursor: pointer;
+
+        background-color: #ffffff; /* fallback */
+        background-color: var(--seccolor);
+        color: #393939; /* fallback */
+        color: var(--maintextcolor);
+        /*padding: 12px 0;*/
+        padding: 0.5rem 0.5rem;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        font-size: 1rem;
+        /*border: #000000 1px solid;*/
+        border: #000000 0.063rem solid;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black; /* fallback */
+        color: var(--maintextcolor);
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #393939; /* fallback */
+        background-color: var(--mainhovercolor);
+        color: white; /* fallback */
+        color: var(--mainhovertextcolor);
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: #393939; /* fallback */
+        background-color: var(--mainhovercolor);
+        color: white; /* fallback */
+        color: var(--mainhovertextcolor);
+    }
+
+
+    /* End language dropdwon */
+
+    /*@media screen  and (min-resolution: 150dpi) and (max-width: 1500px) {*/
+    @media screen  and (orientation:portrait){
+        html {
+            font-size: 30px;
+        }
+        #page-moodle-login {
+            max-width: 100%;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .button {
+	    width: 100%;
+	    margin-bottom: 1rem;
+        }
+    	.methods .ktulogin, .methods .locallogin {
+    	    /*float: none;*/
+    	    width: 100%;
+    	}
+    	.methods {
+    	    flex-direction: column;
+    	}
+    }
+
+</style>
+</head>
+<body>
+
+
+<div id="page-moodle-login" class="">
+    <div id="langselector" class="dropdown">
+        <button class="dropbtn">LietuviÅ³ â€Ž(lt)â€Ž</button>
+        <div class="dropdown-content">
+        <a href="/local/customloginpage/custom_login.php?lang=en">English â€Ž(en)â€Ž</a><a href="#">LietuviÅ³ â€Ž(lt)â€Ž</a>        </div>
+    </div>
+    <div class="header">
+        <div class="site-title">
+		KTU virtualioji mokymosi aplinka â€žMoodle"        </div>
+        <a href="https://moodle.ktu.edu"><img src="https://moodle.ktu.edu/local/customloginpage/pix/KTU_logo.svg" alt="ktu" class="logo"></a>
+    </div>
+
+
+    <div class="methods">
+        <div class="ktulogin">
+        <a href="https://moodle.ktu.edu/auth/saml/index.php" class="button">KTU prisijungimas</a>
+	</div>
+	<div class="locallogin">
+	<button id="localloginbutton" class="button">Prisijungimas sveÄiams <span class="rightarrow"></span></button>
+	</div>
+    </div>
+    
+
+    <div id="nativelogin" class="hidden">
+
+        <div class="failedlogin" style="">Neteisingi prisijungimo duomenys, bandykite dar kartÄ…</div>
+        <form action="https://moodle.ktu.edu/login/index.php" method="post" id="login" _lpchecked="1">
+        <div class="loginform">
+          <label for="username">Naudotojo vardas</label>
+          <input type="text" name="username" id="username" size="15" value="" autocomplete="off" placeholder="">
+
+          <div class="clearer"></div>
+          <label for="password">SlaptaÅ¾odis</label>
+          <input type="password" name="password" id="password" size="15" value="" autocomplete="off" placeholder="">
+            <div class="add-links">
+                <div class="forgetpass"><a href="https://moodle.ktu.edu/login/forgot_password.php">PamirÅ¡ote savo naudotojo vardÄ… ar slaptaÅ¾odÄ¯?</a></div>
+            </div>
+            <div class="login-register">
+            <input type="submit" id="loginbtn" class="button" value="Prisijungti"> 
+          </div>
+        </div>
+        </form>
+    </div>
+
+    <div class="help">
+    <a href="https://moodle.ktu.edu/user/contactsitesupport.php">Susisiekite su svetainÄ—s palaikymo komanda</a>
+    </div>
+
+</div>
+<script>
+    document.getElementById("localloginbutton").addEventListener("click", function () { 
+        let nativelogin = document.getElementById("nativelogin");
+        let arrow = document.querySelector("#localloginbutton span");
+        if (nativelogin.classList.contains("hidden")) {
+            nativelogin.className = "";  
+            arrow.className = "downarrow";
+        } else {
+            nativelogin.className = "hidden";
+            arrow.className = "rightarrow";
+        }
+    });
+    
+
+</script>
+
+</body>
+</html>

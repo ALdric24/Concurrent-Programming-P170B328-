@@ -1,0 +1,72 @@
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\bin\Debug\L1_A.exe.config
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\bin\Debug\L1_A.exe
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\bin\Debug\L1_A.pdb
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\obj\Debug\L1_A.csproj.AssemblyReference.cache
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\obj\Debug\L1_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\obj\Debug\L1_A.exe
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\obj\Debug\L1_A.pdb
+C:\Users\tmawa\source\repos\Lab1_A\L1_A\bin\Debug\Students_textfile.txt
+C:\Users\asus\Desktop\Lab1_A\L1_A\bin\Debug\Students_textfile.txt
+C:\Users\asus\Desktop\Lab1_A\L1_A\bin\Debug\L1_A.exe.config
+C:\Users\asus\Desktop\Lab1_A\L1_A\bin\Debug\L1_A.exe
+C:\Users\asus\Desktop\Lab1_A\L1_A\bin\Debug\L1_A.pdb
+C:\Users\asus\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.exe
+C:\Users\asus\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.pdb
+C:\Users\asus\Desktop\Lab1_A\L1_A\bin\Debug\result.txt
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\bin\Debug\result.txt
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\bin\Debug\Students_textfile.txt
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\bin\Debug\L1_A.exe.config
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\bin\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\bin\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.csproj.AssemblyReference.cache
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\Lab1_A\L1_A\obj\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\result.txt
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\Students_textfile.txt
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe.config
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.AssemblyReference.cache
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.pdb
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\result.txt
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\Students_textfile.txt
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe.config
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.pdb
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.exe
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.pdb
+D:\Uni\Semester 5\Concurrent\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.exe
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.pdb
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\result.txt
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\Students_textfile.txt
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe.config
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe
+C:\Users\asus\Downloads\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\result.txt
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\Students_textfile.txt
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe.config
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\bin\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.AssemblyReference.cache
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\concurrent code\IFu0-RajeshLab1 (1)\RajeshLAb1\Rajesh_Lab1\obj\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\obj\Debug\L1_A.csproj.CoreCompileInputs.cache
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\obj\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\obj\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\bin\Debug\result.txt
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\bin\Debug\Students_textfile.txt
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\bin\Debug\L1_A.exe.config
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\bin\Debug\L1_A.exe
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\bin\Debug\L1_A.pdb
+C:\Users\foxtr\OneDrive\Desktop\All Uni softwares\concurrent code\Final Project\Rajesh_Lab1\obj\Debug\L1_A.csproj.AssemblyReference.cache

@@ -1,0 +1,497 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to ESN Wiki - ESN Knowledge and Information Platform! - Welcome to ESN Wiki! - ESN Wiki</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+<meta charset="UTF-8">
+<meta id="confluence-context-path" name="confluence-context-path" content="">
+<meta id="confluence-base-url" name="confluence-base-url" content="https://wiki.esn.org">
+<meta id="atlassian-token" name="atlassian-token" content="f33dc2ac9cc9f32a5b22662efe5d72fcdc9a885a">
+<meta id="confluence-space-key" name="confluence-space-key" content="WEL">
+<script src="/cdn-cgi/apps/head/UuB70crhw6X_qKD3OeOV11DcmKE.js"></script><script type="text/javascript">
+        var contextPath = '';
+</script>
+<meta name="confluence-request-time" content="1671296796172">
+<style>.ia-fixed-sidebar, .ia-splitter-left {width: 285px;}.theme-default .ia-splitter #main {margin-left: 285px;}.ia-fixed-sidebar {visibility: hidden;}</style>
+<meta name="ajs-use-keyboard-shortcuts" content="true">
+<meta name="ajs-discovered-plugin-features" content="$discoveredList">
+<meta name="ajs-keyboardshortcut-hash" content="5bb5ca3af01883acdae571808aedd1ae">
+<meta name="ajs-team-calendars-display-time-format" content="displayTimeFormat12">
+<meta id="team-calendars-display-week-number" content="false">
+<meta id="team-calendars-user-timezone" content="Europe/Brussels">
+<script type="text/x-template" id="team-calendars-messages" title="team-calendars-messages"><fieldset class="i18n hidden"><input type="hidden" name="calendar3.month.long.july" value="July"><input type="hidden" name="calendar3.day.short.wednesday" value="Wed"><input type="hidden" name="calendar3.day.short.thursday" value="Thu"><input type="hidden" name="calendar3.month.short.march" value="Mar"><input type="hidden" name="calendar3.month.long.april" value="April"><input type="hidden" name="calendar3.month.long.october" value="October"><input type="hidden" name="calendar3.month.long.august" value="August"><input type="hidden" name="calendar3.month.short.july" value="Jul"><input type="hidden" name="calendar3.month.short.may" value="May"><input type="hidden" name="calendar3.month.short.november" value="Nov"><input type="hidden" name="calendar3.day.long.friday" value="Friday"><input type="hidden" name="calendar3.day.long.sunday" value="Sunday"><input type="hidden" name="calendar3.day.long.saturday" value="Saturday"><input type="hidden" name="calendar3.month.short.april" value="Apr"><input type="hidden" name="calendar3.day.long.wednesday" value="Wednesday"><input type="hidden" name="calendar3.month.long.december" value="December"><input type="hidden" name="calendar3.month.short.october" value="Oct"><input type="hidden" name="calendar3.day.long.monday" value="Monday"><input type="hidden" name="calendar3.month.short.june" value="Jun"><input type="hidden" name="calendar3.day.short.monday" value="Mon"><input type="hidden" name="calendar3.day.short.tuesday" value="Tue"><input type="hidden" name="calendar3.day.short.saturday" value="Sat"><input type="hidden" name="calendar3.month.long.march" value="March"><input type="hidden" name="calendar3.month.long.june" value="June"><input type="hidden" name="calendar3.month.short.february" value="Feb"><input type="hidden" name="calendar3.month.short.august" value="Aug"><input type="hidden" name="calendar3.month.short.december" value="Dec"><input type="hidden" name="calendar3.day.short.sunday" value="Sun"><input type="hidden" name="calendar3.month.long.february" value="February"><input type="hidden" name="calendar3.day.long.tuesday" value="Tuesday"><input type="hidden" name="calendar3.month.long.may" value="May"><input type="hidden" name="calendar3.month.long.september" value="September"><input type="hidden" name="calendar3.month.long.november" value="November"><input type="hidden" name="calendar3.month.short.january" value="Jan"><input type="hidden" name="calendar3.month.short.september" value="Sep"><input type="hidden" name="calendar3.day.long.thursday" value="Thursday"><input type="hidden" name="calendar3.month.long.january" value="January"><input type="hidden" name="calendar3.day.short.friday" value="Fri"></fieldset></script>
+<script type="application/javascript">
+	window.Bitvoodoo = window.Bitvoodoo || {};
+	window.Bitvoodoo.Viewtracker = window.Bitvoodoo.Viewtracker || {};
+
+	window.Bitvoodoo.Viewtracker.Info = window.Bitvoodoo.Viewtracker.Info || {};
+	window.Bitvoodoo.Viewtracker.Info.version = "7.1.3";
+	window.Bitvoodoo.Viewtracker.Info.commitId = "828e8a8";
+
+	window.Bitvoodoo.Viewtracker.Configuration = window.Bitvoodoo.Viewtracker.Configuration || {};
+	window.Bitvoodoo.Viewtracker.Configuration.desktopTrackingEnabled = true;
+	window.Bitvoodoo.Viewtracker.Configuration.mobileWebTrackingEnabled = true;
+	window.Bitvoodoo.Viewtracker.Configuration.mobileNativeTrackingEnabled = true;
+	window.Bitvoodoo.Viewtracker.Configuration.linchpinPluginEnabled = false;
+	window.Bitvoodoo.Viewtracker.Configuration.privacyMode = true;
+	window.Bitvoodoo.Viewtracker.Configuration.hiddenUserStatistic = false;
+	window.Bitvoodoo.Viewtracker.Configuration.isDataSecurityInfoBoxFeatureEnabled = false;
+	window.Bitvoodoo.Viewtracker.Configuration.isDataSecurityLinkFeatureEnabled = false;
+	window.Bitvoodoo.Viewtracker.Configuration.isPrivacyModeShowUsersReportFeatureEnabled = false;
+	window.Bitvoodoo.Viewtracker.Configuration.isViewsCounterEnabled = true;
+	window.Bitvoodoo.Viewtracker.Configuration.isStatisticCacheEnabled = false;
+	window.Bitvoodoo.Viewtracker.Configuration.isAnonymizeViewersEnabled = false;
+	window.Bitvoodoo.Viewtracker.Configuration.debug = false;
+
+	// to support k15t Viewport
+	</script>
+<meta name="ajs-is-confluence-admin" content="false">
+<meta name="ajs-connection-timeout" content="10000">
+<meta name="ajs-page-title" content="Welcome to ESN Wiki - ESN Knowledge and Information Platform!">
+<meta name="ajs-latest-published-page-title" content="Welcome to ESN Wiki - ESN Knowledge and Information Platform!">
+<meta name="ajs-space-name" content="Welcome to ESN Wiki!">
+<meta name="ajs-page-id" content="7045162">
+<meta name="ajs-latest-page-id" content="7045162">
+<meta name="ajs-content-type" content="page">
+<meta name="ajs-parent-page-id" content="">
+<meta name="ajs-space-key" content="WEL">
+<meta name="ajs-max-number-editors" content="12">
+<meta name="ajs-macro-placeholder-timeout" content="5000">
+<meta name="ajs-jira-metadata-count" content="0">
+<meta name="ajs-from-page-title" content="">
+<meta name="ajs-can-remove-page" content="false">
+<meta name="ajs-can-remove-page-hierarchy" content="false">
+<meta name="ajs-browse-page-tree-mode" content="view">
+<meta name="ajs-shared-drafts" content="true">
+<meta name="ajs-context-path" content="">
+<meta name="ajs-base-url" content="https://wiki.esn.org">
+<meta name="ajs-version-number" content="7.11.6">
+<meta name="ajs-build-number" content="8701">
+<meta name="ajs-remote-user" content="">
+<meta name="ajs-remote-user-key" content="">
+<meta name="ajs-remote-user-has-licensed-access" content="false">
+<meta name="ajs-remote-user-has-browse-users-permission" content="false">
+<meta name="ajs-current-user-fullname" content="">
+<meta name="ajs-current-user-avatar-url" content="">
+<meta name="ajs-current-user-avatar-uri-reference" content="/images/icons/profilepics/anonymous.svg">
+<meta name="ajs-static-resource-url-prefix" content="/s/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/_">
+<meta name="ajs-global-settings-attachment-max-size" content="104857600">
+<meta name="ajs-global-settings-quick-search-enabled" content="true">
+ <meta name="ajs-user-locale" content="en_GB">
+<meta name="ajs-enabled-dark-features" content="site-wide.shared-drafts,site-wide.synchrony,clc.quick.create,confluence.view.edit.transition,cql.search.screen,confluence-inline-comments-resolved,frontend.editor.v4,http.session.registrar,nps.survey.inline.dialog,confluence.efi.onboarding.new.templates,frontend.editor.v4.compatibility,atlassian.cdn.static.assets,pdf-preview,previews.sharing,previews.versions,file-annotations,confluence.efi.onboarding.rich.space.content,collaborative-audit-log,confluence.reindex.improvements,previews.conversion-service,editor.ajax.save,read.only.mode,graphql,previews.trigger-all-file-types,attachment.extracted.text.extractor,lucene.caching.filter,confluence.table.resizable,notification.batch,previews.sharing.pushstate,confluence-inline-comments-rich-editor,tc.tacca.dacca,site-wide.synchrony.opt-in,file-annotations.likes,gatekeeper-ui-v2,v2.content.name.searcher,mobile.supported.version,pulp,confluence-inline-comments,confluence-inline-comments-dangling-comment,quick-reload-inline-comments-flags">
+<meta name="ajs-atl-token" content="f33dc2ac9cc9f32a5b22662efe5d72fcdc9a885a">
+<meta name="ajs-confluence-flavour" content="VANILLA">
+<meta name="ajs-user-date-pattern" content="dd MMM yyyy">
+<meta name="ajs-access-mode" content="READ_WRITE">
+<meta name="ajs-render-mode" content="READ_WRITE">
+<meta name="ajs-date.format" content="dd MMM yyyy">
+<link rel="shortcut icon" href="/s/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/170/_/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/s/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/170/_/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch/osd.action" title="ESN Wiki" />
+<meta name="ajs-create-issue-metadata-show-discovery" content="false">
+<script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};window.WRM._unparsedErrors=window.WRM._unparsedErrors||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\u0022\u0022";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-feature-discovery-plugin:confluence-feature-discovery-plugin-resources.test-mode"]="false";
+WRM._unparsedData["com.atlassian.analytics.analytics-client:policy-update-init.policy-update-data-provider"]="false";
+WRM._unparsedData["com.atlassian.analytics.analytics-client:programmatic-analytics-init.programmatic-analytics-data-provider"]="false";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.applinks-help-paths"]="{\u0022entries\u0022:{\u0022applinks.docs.root\u0022:\u0022https://confluence.atlassian.com/display/APPLINKS-072/\u0022,\u0022applinks.docs.diagnostics.troubleshoot.sslunmatched\u0022:\u0022SSL+and+application+link+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthsignatureinvalid\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthtimestamprefused\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.delete.entity.link\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.adding.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.administration.guide\u0022:\u0022Application+Links+Documentation\u0022,\u0022applinks.docs.oauth.security\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.troubleshoot.application.links\u0022:\u0022Troubleshoot+application+links\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unknownerror\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.trusted.apps\u0022:\u0022Configuring+Trusted+Applications+authentication+for+an+application+link\u0022,\u0022applinks.docs.diagnostics.troubleshoot.authlevelunsupported\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.ssluntrusted\u0022:\u0022SSL+and+application+link+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unknownhost\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.delete.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.adding.project.link\u0022:\u0022Configuring+Project+links+across+Applications\u0022,\u0022applinks.docs.link.applications\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.diagnostics.troubleshoot.oauthproblem\u0022:\u0022OAuth+troubleshooting+guide\u0022,\u0022applinks.docs.diagnostics.troubleshoot.migration\u0022:\u0022Update+application+links+to+use+OAuth\u0022,\u0022applinks.docs.relocate.application.link\u0022:\u0022Link+Atlassian+applications+to+work+together\u0022,\u0022applinks.docs.administering.entity.links\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.upgrade.application.link\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.diagnostics.troubleshoot.connectionrefused\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.oauth\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.insufficient.remote.permission\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.configuring.application.link.auth\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.diagnostics\u0022:\u0022Application+links+diagnostics\u0022,\u0022applinks.docs.configured.authentication.types\u0022:\u0022OAuth+security+for+application+links\u0022,\u0022applinks.docs.adding.entity.link\u0022:\u0022Create+links+between+projects\u0022,\u0022applinks.docs.diagnostics.troubleshoot.unexpectedresponse\u0022:\u0022Network+and+connectivity+troubleshooting+guide\u0022,\u0022applinks.docs.configuring.auth.basic\u0022:\u0022Configuring+Basic+HTTP+Authentication+for+an+Application+Link\u0022,\u0022applinks.docs.diagnostics.troubleshoot.authlevelmismatch\u0022:\u0022OAuth+troubleshooting+guide\u0022}}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.applinks-types"]="{\u0022crowd\u0022:\u0022Crowd\u0022,\u0022confluence\u0022:\u0022Confluence\u0022,\u0022fecru\u0022:\u0022FishEye / Crucible\u0022,\u0022stash\u0022:\u0022Stash\u0022,\u0022jira\u0022:\u0022Jira\u0022,\u0022refapp\u0022:\u0022Reference Application\u0022,\u0022bamboo\u0022:\u0022Bamboo\u0022,\u0022generic\u0022:\u0022Generic Application\u0022}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.entity-types"]="{\u0022singular\u0022:{\u0022refapp.charlie\u0022:\u0022Charlie\u0022,\u0022fecru.project\u0022:\u0022Crucible Project\u0022,\u0022fecru.repository\u0022:\u0022FishEye Repository\u0022,\u0022stash.project\u0022:\u0022Stash Project\u0022,\u0022generic.entity\u0022:\u0022Generic Project\u0022,\u0022confluence.space\u0022:\u0022Confluence Space\u0022,\u0022bamboo.project\u0022:\u0022Bamboo Project\u0022,\u0022jira.project\u0022:\u0022Jira Project\u0022},\u0022plural\u0022:{\u0022refapp.charlie\u0022:\u0022Charlies\u0022,\u0022fecru.project\u0022:\u0022Crucible Projects\u0022,\u0022fecru.repository\u0022:\u0022FishEye Repositories\u0022,\u0022stash.project\u0022:\u0022Stash Projects\u0022,\u0022generic.entity\u0022:\u0022Generic Projects\u0022,\u0022confluence.space\u0022:\u0022Confluence Spaces\u0022,\u0022bamboo.project\u0022:\u0022Bamboo Projects\u0022,\u0022jira.project\u0022:\u0022Jira Projects\u0022}}";
+WRM._unparsedData["com.atlassian.applinks.applinks-plugin:applinks-common-exported.authentication-types"]="{\u0022com.atlassian.applinks.api.auth.types.BasicAuthenticationProvider\u0022:\u0022Basic Access\u0022,\u0022com.atlassian.applinks.api.auth.types.TrustedAppsAuthenticationProvider\u0022:\u0022Trusted Applications\u0022,\u0022com.atlassian.applinks.api.auth.types.CorsAuthenticationProvider\u0022:\u0022CORS\u0022,\u0022com.atlassian.applinks.api.auth.types.OAuthAuthenticationProvider\u0022:\u0022OAuth\u0022,\u0022com.atlassian.applinks.api.auth.types.TwoLeggedOAuthAuthenticationProvider\u0022:\u0022OAuth\u0022,\u0022com.atlassian.applinks.api.auth.types.TwoLeggedOAuthWithImpersonationAuthenticationProvider\u0022:\u0022OAuth\u0022}";
+WRM._unparsedData["com.atlassian.confluence.plugins.synchrony-interop:synchrony-status-banner-loader.synchrony-status"]="false";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-license-banner:confluence-license-banner-resources.license-details"]="{\u0022daysBeforeLicenseExpiry\u0022:0,\u0022daysBeforeMaintenanceExpiry\u0022:0,\u0022showLicenseExpiryBanner\u0022:false,\u0022showMaintenanceExpiryBanner\u0022:false,\u0022renewUrl\u0022:null,\u0022salesUrl\u0022:null}";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-search-ui-plugin:confluence-search-ui-plugin-resources.i18n-data"]="{\u0022search.ui.recent.link.text\u0022:\u0022View more recently visited\u0022,\u0022search.ui.filter.space.category.input.label\u0022:\u0022Find space categories...\u0022,\u0022search.ui.search.results.empty\u0022:\u0022We couldn\u005Cu0027\u005Cu0027t find anything matching \u005C\u0022{0}\u005C\u0022.\u0022,\u0022search.ui.filter.clear.selected\u0022:\u0022Clear selected items\u0022,\u0022search.ui.content.name.search.items.panel.load.all.top.items.button.text\u0022:\u0022Show more app results...\u0022,\u0022search.ui.filter.space.archive.label\u0022:\u0022Search archived spaces\u0022,\u0022search.ui.filter.label\u0022:\u0022filter\u0022,\u0022search.ui.filter.contributor.button.text\u0022:\u0022Contributor\u0022,\u0022search.ui.filter.date.all.text\u0022:\u0022Any time\u0022,\u0022search.ui.filter.space.current.label\u0022:\u0022CURRENT\u0022,\u0022search.ui.clear.input.button.text\u0022:\u0022Clear text\u0022,\u0022search.ui.search.results.clear.button\u0022:\u0022clear your filters.\u0022,\u0022search.ui.filter.date.hour.text\u0022:\u0022The past day\u0022,\u0022help.search.ui.link.title\u0022:\u0022Search tips\u0022,\u0022search.ui.filters.heading\u0022:\u0022Filter by\u0022,\u0022search.ui.filter.label.input.label\u0022:\u0022Find labels...\u0022,\u0022search.ui.recent.items.anonymous\u0022:\u0022Start exploring. Your search results will appear here.\u0022,\u0022search.ui.filter.date.month.text\u0022:\u0022The past month\u0022,\u0022search.ui.input.label\u0022:\u0022Search\u0022,\u0022search.ui.search.result\u0022:\u0022{0,choice,1#{0} search result|1\u005Cu003c{0} search results}\u0022,\u0022search.ui.infinite.scroll.button.text\u0022:\u0022More results\u0022,\u0022search.ui.filter.date.button.text\u0022:\u0022Date\u0022,\u0022search.ui.filter.date.week.text\u0022:\u0022The past week\u0022,\u0022search.ui.filter.label.button.text\u0022:\u0022Label\u0022,\u0022search.ui.input.alert\u0022:\u0022Hit enter to search\u0022,\u0022search.ui.result.subtitle.calendar\u0022:\u0022Team calendar\u0022,\u0022search.ui.filter.no.result.text\u0022:\u0022We can\u005Cu0027\u005Cu0027t find anything matching your search\u0022,\u0022search.ui.filter.date.heading\u0022:\u0022Last modified within\u0022,\u0022search.ui.result.subtitle.user\u0022:\u0022User profile\u0022,\u0022search.ui.filter.contributor.input.label\u0022:\u0022Find people...\u0022,\u0022search.ui.filter.content.type.button.text\u0022:\u0022Type\u0022,\u0022search.ui.filter.space.input.label\u0022:\u0022Find spaces...\u0022,\u0022search.ui.filter.date.year.text\u0022:\u0022The past year\u0022,\u0022search.ui.advanced.search.link.text\u0022:\u0022Advanced search\u0022,\u0022search.ui.filter.space.button.text\u0022:\u0022Space\u0022,\u0022search.ui.generic.error\u0022:\u0022Something went wrong. Refresh the page, or contact your admin if this keeps happening.\u0022,\u0022search.ui.recent.spaces\u0022:\u0022Recent Spaces\u0022,\u0022search.ui.search.results.clear.line2\u0022:\u0022Try a different search term or\u0022,\u0022search.ui.filter.space.category.button.text\u0022:\u0022Space category\u0022,\u0022search.ui.search.results.clear.line1\u0022:\u0022We couldn\u005Cu0027\u005Cu0027t find anything matching your search.\u0022,\u0022search.ui.content.name.search.items.panel.load.all.top.items.admin.button.text\u0022:\u0022Show more settings and app results...\u0022,\u0022search.ui.recent.pages\u0022:\u0022Recently visited\u0022,\u0022search.ui.search.result.anonymous\u0022:\u0022{0,choice,1#{0} search result|1\u005Cu003c{0} search results}. Have an account? {1}Log in{2} to expand your search.\u0022,\u0022search.ui.recent.items.empty\u0022:\u0022Start exploring. Pages and spaces you\u005Cu0027\u005Cu0027ve visited recently will appear here.\u0022,\u0022search.ui.result.subtitle.space\u0022:\u0022Space\u0022,\u0022search.ui.filter.space.init.heading\u0022:\u0022recent spaces\u0022}";
+if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
+<link type="text/css" rel="stylesheet" href="/s/ad68cd1f548f9414023a02d56bbcf718-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/8061f90c8aa48ec3d00d9c429d014ce9/_/download/contextbatch/css/_super/batch.css" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" href="/s/f1775f8b30d09d565799c8c36268470d-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/61f6305e7f6e45129014fcc33f8ed6d0/_/download/contextbatch/css/atl.confluence.plugins.pagetree-desktop,main,viewcontent,atl.general,page,atl.comments,-_super/batch.css?bvIsPrivacyModeEnabled=true&amp;gatekeeper-ui-v2=true&amp;highlightactions=true&amp;hostenabled=true" data-wrm-key="atl.confluence.plugins.pagetree-desktop,main,viewcontent,atl.general,page,atl.comments,-_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" href="/s/4716828e8b987fa9ba3a86db8d88fc3b-T/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/7.1.3/_/download/batch/ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-view-counter-web-resource/ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-view-counter-web-resource.css" data-wrm-key="ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-view-counter-web-resource" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/bebefd17e6ba68f8db8a57e18fe3b356-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/1.1.10-bundle/_/download/batch/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-badge-resources/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-badge-resources.css" data-wrm-key="ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-badge-resources" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="/s/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/170/_/styles/colors.css" media="all">
+<link type="text/css" rel="stylesheet" href="/s/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/170/_/styles/custom.css" media="all">
+<script type="text/javascript" src="/s/db5e05d1bbd3bd329e74f64d0aa6403c-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/8061f90c8aa48ec3d00d9c429d014ce9/_/download/contextbatch/js/_super/batch.js?locale=en-GB" data-wrm-key="_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script type="text/javascript" src="/s/64042ab96a5547d54e203b291a48d56a-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/61f6305e7f6e45129014fcc33f8ed6d0/_/download/contextbatch/js/atl.confluence.plugins.pagetree-desktop,main,viewcontent,atl.general,page,atl.comments,-_super/batch.js?bvIsPrivacyModeEnabled=true&amp;gatekeeper-ui-v2=true&amp;highlightactions=true&amp;hostenabled=true&amp;locale=en-GB" data-wrm-key="atl.confluence.plugins.pagetree-desktop,main,viewcontent,atl.general,page,atl.comments,-_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script type="text/javascript" src="/s/f5a1804f427bb4ecf2b136118ecba37a-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/7.1.3/_/download/batch/ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-report-timeline-web-resource/ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-report-timeline-web-resource.js?locale=en-GB" data-wrm-key="ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-report-timeline-web-resource" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="/s/f5a1804f427bb4ecf2b136118ecba37a-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/1.1.10-bundle/_/download/batch/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-service-resources/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-service-resources.js?locale=en-GB" data-wrm-key="ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-service-resources" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="/s/f5a1804f427bb4ecf2b136118ecba37a-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/1.1.10-bundle/_/download/batch/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-badge-resources/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-badge-resources.js?locale=en-GB" data-wrm-key="ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-badge-resources" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="/s/f5a1804f427bb4ecf2b136118ecba37a-CDN/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/1.2.2/_/download/batch/ch.bitvoodoo.confluence.plugins.analytics-core:excluded-space-service-resources/ch.bitvoodoo.confluence.plugins.analytics-core:excluded-space-service-resources.js?locale=en-GB" data-wrm-key="ch.bitvoodoo.confluence.plugins.analytics-core:excluded-space-service-resources" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="/s/f5a1804f427bb4ecf2b136118ecba37a-T/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/1.1.10-bundle/_/download/batch/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-page-badge-resources/ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-page-badge-resources.js?locale=en-GB" data-wrm-key="ch.bitvoodoo.confluence.plugins.attachment-tracking:total-view-page-badge-resources" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="/s/f5a1804f427bb4ecf2b136118ecba37a-T/-i92cdp/8701/07dda8c3f1effe050c1902a09838ce6f030b7dbf/7.1.3/_/download/batch/ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-auto-tracking-web-resource/ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-auto-tracking-web-resource.js?locale=en-GB" data-wrm-key="ch.bitvoodoo.confluence.plugins.viewtracker:viewtracker-auto-tracking-web-resource" data-wrm-batch-type="resource" data-initially-rendered></script>
+
+<meta name="ajs-site-title" content="ESN Wiki" />
+<script>
+jQuery(document).ready(function() {
+    jQuery(".external-link").attr("target", "_blank");
+});
+</script>
+<link rel="canonical" href="https://wiki.esn.org/pages/viewpage.action?pageId=7045162">
+<link rel="shortlink" href="https://wiki.esn.org/x/KoBr">
+<meta name="wikilink" content="[WEL:Welcome to ESN Wiki - ESN Knowledge and Information Platform!]">
+<meta name="page-version" content="173">
+<meta name="ajs-page-version" content="173">
+<script type="text/javascript">
+        AJS.toInit(function(){ 
+           AJS.$('#people-directory-link').hide();
+        });
+    </script>
+</head>
+<body id="com-atlassian-confluence" class="theme-default  aui-layout aui-theme-default">
+<div id='stp-licenseStatus-banner'></div>
+<ul id="assistive-skip-links" class="assistive">
+<li><a href="#title-heading">Skip to content</a></li>
+<li><a href="#breadcrumbs">Skip to breadcrumbs</a></li>
+<li><a href="#header-menu-bar">Skip to header menu</a></li>
+<li><a href="#navigation">Skip to action menu</a></li>
+<li><a href="#quick-search-query">Skip to quick search</a></li>
+</ul>
+<div id="page">
+<div id="full-height-container">
+<div id="header-precursor">
+<div class="cell">
+</div>
+</div>
+<header id="header" role="banner">
+<nav class="aui-header aui-dropdown2-trigger-group" role="navigation"><div class="aui-header-inner"><div class="aui-header-primary"><h1 id="logo" class="aui-header-logo aui-header-logo-custom"><a href="/"><img src="/download/attachments/65582/atl.site.logo?version=4&amp;modificationDate=1564959321674&amp;api=v2" alt="ESN Wiki" /></a></h1><ul class="aui-nav">
+<li>
+<a id="space-directory-link" href="/spacedirectory/view.action" class=" aui-nav-imagelink" title="Spaces">
+<span>Spaces</span>
+</a>
+</li>
+<li>
+<a id="menu-A" href="https://wiki.esn.org/display/EO/Opportunities+for+sections" class=" aui-nav-imagelink" title="">
+<span>Opportunities for sections!</span>
+</a>
+</li>
+<li>
+<a id="menu-B" href="https://wiki.esn.org/display/EO/Opportunities+for+volunteers" class=" aui-nav-imagelink" title="">
+<span>Opportunities for volunteers!</span>
+</a>
+</li>
+<li class="aui-buttons">
+</li>
+</ul>
+</div><div class="aui-header-secondary"><ul class="aui-nav">
+<li>
+<div id="search-ui" class="aui-quicksearch dont-default-focus header-quicksearch"><input id="quick-search-query" aria-label="Search" placeholder="Search" type="text" /><div id="quick-search-alert" role="alert">Hit enter to search</div><aui-spinner size="small"></aui-spinner></div>
+</li>
+<li>
+<a id="help-menu-link" class="aui-nav-link aui-dropdown2-trigger aui-dropdown2-trigger-arrowless" href="#" aria-haspopup="true" aria-owns="help-menu-link-content" title="Help">
+<span class="aui-icon aui-icon-small aui-iconfont-question-filled">Help</span>
+</a>
+<nav id="help-menu-link-content" class="aui-dropdown2 aui-style-default" aria-hidden="true">
+<div class="aui-dropdown2-section">
+<ul id="help-menu-link-leading" class="aui-list-truncate section-leading first">
+<li>
+<a id="confluence-help-link" href="https://docs.atlassian.com/confluence/docs-711/" class="    " title="Visit the Confluence documentation home" target="_blank">
+Online Help
+</a>
+</li>
+<li>
+<a id="keyboard-shortcuts-link" href="#" class="    " title="View available keyboard shortcuts">
+Keyboard Shortcuts
+</a>
+</li>
+<li>
+<a id="feed-builder-link" href="/dashboard/configurerssfeed.action" class="    " title="Create your custom RSS feed.">
+Feed Builder
+</a>
+</li>
+<li>
+<a id="whats-new-menu-link" href="https://confluence.atlassian.com/display/DOC/Confluence+7.11+Release+Notes" class="    " title="">
+Whatâ€™s new
+</a>
+</li>
+<li>
+<a id="gadget-directory-link" href="#" class="   user-item administration-link " title="Browse gadgets provided by Confluence">
+Available Gadgets
+</a>
+</li>
+<li>
+<a id="confluence-about-link" href="/aboutconfluencepage.action" class="    " title="Get more information about Confluence">
+About Confluence
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+<li>
+<a id="login-link" href="/login.action?os_destination=%2Fpages%2Fviewpage.action%3FpageId%3D7045162" class="   user-item login-link " title="">
+Log in
+</a>
+</li>
+</li>
+</ul>
+</div></div></nav>
+<br class="clear">
+</header>
+<div class="ia-splitter">
+<div class="ia-splitter-left">
+<div class="ia-fixed-sidebar">
+<div class="acs-side-bar ia-scrollable-section"><div class="acs-side-bar-space-info tipsy-enabled" data-configure-tooltip="Edit space details"><div class="avatar"><div class="space-logo" data-key="WEL" data-name="Welcome to ESN Wiki!" data-entity-type="confluence.space"><div class="avatar-img-container"><div class="avatar-img-wrapper"><a href="/pages/viewpage.action?pageId=7045162" title="Welcome to ESN Wiki!"><img class="avatar-img" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" alt="Welcome to ESN Wiki!"></a></div></div></div></div><div class="space-information-container"><div class="name"><a href="/pages/viewpage.action?pageId=7045162" title="Welcome to ESN Wiki!">Welcome to ESN Wiki!</a></div><div class="flyout-handle icon aui-icon aui-icon-small aui-iconfont-edit"></div></div></div><div class="acs-side-bar-content"><div class="acs-nav-wrapper"><div class="acs-nav" data-has-create-permission="false" data-quick-links-state="show" data-page-tree-state="hide" data-nav-type="page-tree"><div class="acs-nav-sections"><div class="main-links-section "><ul class="acs-nav-list"><li class="acs-nav-item wiki current-item" aria-current="true" data-collector-key="spacebar-pages"><a class="acs-nav-item-link tipsy-enabled" href="/collector/pages.action?key=WEL" data-collapsed-tooltip="Pages"><span class="icon"></span><span class="acs-nav-item-label">Pages</span></a></li></ul></div><div class="quick-links-wrapper"><h5 class="ia-quick-links-header-title">Space shortcuts</h5><div class="quick-links-section tipsy-enabled "><ul class="acs-nav-list"><li class="acs-nav-item pinned_page"><a class="acs-nav-item-link tipsy-enabled" href="/display/WEL/Welcome+to+ESN+Wiki+-+Guide+for+beginners" data-collapsed-tooltip="null"><span class="icon"></span><span class="acs-nav-item-label">ESN Wiki Guide</span></a></li></ul></div></div><div class="custom-sidebar"><div class="custom-sidebar-content"><div class="content">
+<strong class="aui-nav-heading">My Spaces</strong>
+<p>Your favourite (â˜…) spaces appear here.</p></div></div></div></div></div></div><div class="ia-secondary-container tipsy-enabled" data-tree-type="page-tree"></div></div><div class="hidden"><a href="/collector/pages.action?key=WEL" id="space-pages-link"></a><script type="text/x-template" title="logo-config-content"><h2>Space Details</h2><div class="personal-space-logo-hint">Your profile picture is used as the logo for your personal space. <a href="/users/profile/editmyprofilepicture.action" target="_blank">Change your profile picture</a>.</div></script></div></div><div class="space-tools-section"><div id="space-tools-menu-additional-items" class="hidden"><div data-label="Browse pages" data-class="" data-href="/pages/reorderpages.action?key=WEL">Browse pages</div></div><button id="space-tools-menu-trigger" class=" aui-dropdown2-trigger aui-button aui-button-subtle tipsy-enabled aui-dropdown2-trigger-arrowless " aria-controls="space-tools-menu" aria-haspopup="true" role="button" data-aui-trigger><span class="aui-icon aui-icon-small aui-iconfont-configure">Configure</span><span class="aui-button-label">Space tools</span><span class="aui-icon "></span></button><div id="space-tools-menu" class="aui-dropdown2 aui-style-default space-tools-dropdown" role="menu" aria-hidden="true" data-aui-alignment="top left"><div role="application"></div></div><a href="#" role="button" class="expand-collapse-trigger aui-icon aui-icon-small aui-iconfont-chevron-double-right" aria-expanded="false"></a></div>
+</div>
+</div>
+
+<div id="main" class=" aui-page-panel">
+<div id="main-header">
+<div id="navigation" class="content-navigation view">
+<ul class="ajs-menu-bar">
+<li class="normal ajs-menu-item">
+<a id="action-menu-link" class="action aui-dropdown2-trigger-arrowless aui-button aui-button-subtle ajs-menu-title aui-dropdown2-trigger" href="#" aria-haspopup="true" aria-label="More options" aria-owns="action-menu" data-container="#navigation">
+<span>
+<span class="aui-icon aui-icon-small aui-iconfont-more" aria-label="More options"></span>
+</span>
+</a> <div id="action-menu" class="aui-dropdown2 aui-style-default" aria-hidden="true">
+<div class="aui-dropdown2-section">
+<ul id="action-menu-primary" class="section-primary first">
+<li>
+<a id="view-attachments-link" href="/pages/viewpageattachments.action?pageId=7045162" rel="nofollow" class="action-view-attachments" accessKey="t" title="View Attachments">
+<span>
+A<u>t</u>tachments (57)
+</span> </a>
+</li>
+<li>
+<a id="action-view-history-link" href="/pages/viewpreviousversions.action?pageId=7045162" rel="nofollow" class="action-view-history" title="">
+<span>
+Page History
+</span> </a>
+</li>
+<li>
+<a id="who-can-view-button-ak-button" href="#" rel="nofollow" class="who-can-view-link" title="">
+<span>
+People who can view
+</span> </a>
+</li>
+</ul>
+</div>
+<div class="aui-dropdown2-section">
+<ul id="action-menu-secondary" class="section-secondary">
+<li>
+<a id="view-page-info-link" href="/pages/viewinfo.action?pageId=7045162" rel="nofollow" class="action-view-info" title="">
+<span>
+Page Information
+</span> </a>
+</li>
+<li>
+<a id="view-resolved-comments" href="#" rel="nofollow" class="" title="">
+<span>
+Resolved comments
+</span> </a>
+</li>
+<li>
+<a id="view-in-hierarchy-link" href="/pages/reorderpages.action?key=WEL&amp;openId=7045162#selectedPageInHierarchy" rel="nofollow" class="" title="">
+<span>
+View in Hierarchy
+</span> </a>
+</li>
+<li>
+<a id="action-view-source-link" href="/plugins/viewsource/viewpagesrc.action?pageId=7045162" rel="nofollow" class="action-view-source popup-link" title="">
+<span>
+View Source
+</span> </a>
+</li>
+<li>
+<a id="action-export-pdf-link" href="/spaces/flyingpdf/pdfpageexport.action?pageId=7045162" rel="nofollow" class="" title="">
+<span>
+Export to PDF
+</span> </a>
+</li>
+<li>
+<a id="action-export-word-link" href="/exportword?pageId=7045162" rel="nofollow" class="action-export-word" title="">
+<span>
+Export to Word
+</span> </a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div id="title-heading" class="pagetitle with-breadcrumbs">
+<div id="breadcrumb-section">
+<ol id="breadcrumbs">
+<li class="first">
+<span class=""><a href="/collector/pages.action?key=WEL">Pages</a></span>
+</ol>
+</div>
+<a href="#page-banner-end" class="assistive">Skip to end of banner</a>
+<div id="page-banner-start" class="assistive"></div>
+<div id="page-metadata-banner"><ul class="banner"><li id="system-content-items" class="noprint"><a href="" title="Unrestricted" id="content-metadata-page-restrictions-hidden" class="hidden"></a><a href="/pages/viewpageattachments.action?pageId=7045162&amp;metadataLink=true" title="57 attachments" id="content-metadata-attachments" class="aui-icon aui-icon-small aui-iconfont-attachment"></a></li><li class="page-metadata-item noprinthas-button" id="content-metadata-jira-wrapper"><a href="" title="" id="content-metadata-jira" class="aui-button aui-button-subtle content-metadata-jira tipsy-disabled hidden"><span>Jira links</span></a></li><li class="page-metadata-item noprint" id="reporting-single-content-link-wrapper"><a href="/spaces/viewtrackerreport.action?key=WEL" title="" id="reporting-single-content-link" class="auto-track-icon"><span>Viewtracker</span></a></li></ul></div>
+<a href="#page-banner-start" class="assistive">Go to start of banner</a>
+<div id="page-banner-end" class="assistive"></div>
+<h1 id="title-text" class="with-breadcrumbs">
+<a href="/pages/viewpage.action?pageId=7045162">Welcome to ESN Wiki - ESN Knowledge and Information Platform!</a>
+</h1>
+</div>
+</div>
+<div id="sidebar-container">
+</div>
+<div id="content" class="page view">
+<div id="action-messages">
+</div>
+<script type="text/x-template" title="searchResultsGrid">
+    <table class="aui">
+        <thead>
+            <tr class="header">
+                <th class="search-result-title">Page Title</th>
+                <th class="search-result-space">Space</th>
+                <th class="search-result-date">Updated</th>
+            </tr>
+        </thead>
+    </table>
+</script>
+<script type="text/x-template" title="searchResultsGridCount">
+    <p class="search-result-count">{0}</p>
+</script>
+<script type="text/x-template" title="searchResultsGridRow">
+    <tr class="search-result">
+        <td class="search-result-title"><a href="{1}" class="content-type-{2}"><span>{0}</span></a></td>
+        <td class="search-result-space"><a class="space" href="/display/{4}/" title="{3}">{3}</a></td>
+        <td class="search-result-date"><span class="date" title="{6}">{5}</span></td>
+    </tr>
+</script>
+<a href="#page-metadata-end" class="assistive">Skip to end of metadata</a>
+<div id="page-metadata-start" class="assistive"></div>
+<div class="page-metadata">
+<ul>
+<li class="page-metadata-modification-info">
+Created by <span class='author'> <a href="    /display/~vicepresident
+" class="url fn">Tijana StojanoviÄ‡</a></span>, last modified by <span class='editor'> <a href="    /display/~michal.hubacek
+" class="url fn">Michal HubÃ¡Äek</a></span> on <a class='last-modified' title='Show changes' href='/pages/diffpagesbyversion.action?pageId=7045162&amp;selectedPageVersions=172&amp;selectedPageVersions=173'>14 Jul 2021</a>
+</li>
+</ul>
+</div>
+<a href="#page-metadata-start" class="assistive">Go to start of metadata</a>
+<div id="page-metadata-end" class="assistive"></div>
+<div id="main-content" class="wiki-content">
+<hr /><h1 style="text-align: center;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-WhatisESNWiki?"><strong>What is ESN Wiki?Â </strong></h1><p style="text-align: left;">ESN Wiki is ESN's main knowledge and information platform. It i<span style="letter-spacing: 0.0px;">s organised in Spaces and their Pages. The list of all Spaces can be found in the Space Directory. <strong>The main spaces can be found below - just click on the pictures to learn more!</strong>Â </span><span style="letter-spacing: 0.0px;">On the Space Directory, you can also find the spaces of all the ESN Countries, where you can discover best practices from around the network.Â <br /><br /></span><span style="letter-spacing: 0.0px;">By clicking on the star next to each Space,</span><strong style="letter-spacing: 0.0px;"> you can bookmark your favourite Spaces</strong><span style="letter-spacing: 0.0px;"> that you want to access easily.Â <br /></span><span style="letter-spacing: 0.0px;">To stay up to date with new additions to spaces, </span><strong style="letter-spacing: 0.0px;">you can follow the Spaces and set notifications</strong><span style="letter-spacing: 0.0px;"> to be informed via email whenever there is a change.Â <br /></span><span style="letter-spacing: 0.0px;">This can be particularly useful if you are interested to </span><strong style="letter-spacing: 0.0px;">follow voting results, be informed of new opportunities in ESN or receive event reports once they are published.<br /><br /></strong></p><p style="text-align: center;"><span style="color: rgb(255,102,0);"><em>To learn more about the platform and how to get the most out of it visit the <u><a href="/display/WEL/Welcome+to+ESN+Wiki+-+Guide+for+beginners">ESN Wiki Guide</a>.</u>Â <br /></em></span><em style="letter-spacing: 0.0px;"><span style="color: rgb(255,102,0);">For additional information, feedback or questions, please contactÂ <a href="/cdn-cgi/l/email-protection#08666d6b257f616361486d7b6626677a6f" class="external-link" rel="nofollow"><span class="__cf_email__" data-cfemail="29474c4a045e404240694c5a4707465b4e">[email&#160;protected]</span></a></span></em></p><p style="text-align: center;"><em style="letter-spacing: 0.0px;"><span style="color: rgb(255,102,0);">Â  Â  Â  Â  Â  Â  Â  Â </span></em>
+<div style="text-align:center;display:flex;flex-wrap:wrap;justify-content:center;" class="conf-macro output-inline" data-hasbody="true" data-macro-name="wiki-button-container">
+<a href="https://wiki.esn.org/display/EI/ESN+Basics+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-BasicsofESN">Basics of ESN</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-AllaboutESNfromhowdecisionsaremadetomembershiptypes,aswellasmaincontactsandHQ">All about ESN from how decisions are made to membership types, as well as main contacts and HQ</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/ET/ESN+Toolbox+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNToolbox">ESN Toolbox</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-Allthetoolsandusefullinksinoneplace,organisedintopicsrangingfromHRtoIT">All the tools and useful links in one place, organised in topics ranging from HR to IT</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/EO/ESN+Opportunities+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNOpportunities">ESN Opportunities</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-OpportunitiesfortheengagementofsectionsandvolunteersinESN">Opportunities for the engagement of sections and volunteers in ESN</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/CE/Causes+of+ESN+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-CausesofESN">Causes of ESN</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-AllaboutCausesofESNandhowtoimplementthem,includingvariousresources">All about Causes of ESN and how to implement them, including various resources</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/EST/ESN+Structure+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNStructure">ESN Structure</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-Statutoryandnon-statutorybodiesofESN,aswellastheoverviewofNationalOrganisations">Statutory and non-statutory bodies of ESN, as well as the overview of National Organisations</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/EPP/ESN+Projects%2C+Programmes+and+Services+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNProjects">ESN Projects</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-Fromlong-termprogrammestograntprojects,includingusefulinformationandresources">From long-term programmes to grant projects, including useful information and resources</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/EV/ESN+Events+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNEvents">ESN Events</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-DifferentinternationalESNeventsandtheirreports,presentations,minutesandvotingresults">Different international ESN events and their reports, presentations, minutes and voting results</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/EI/ESN+Documents" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNDocuments">ESN Documents</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-Themostimportantdocumentsofthenetwork,includingStatutes,StandingOrdersandEventsPolicyPaper">The most important documents of the network, including Statutes, Standing Orders and Events Policy Paper</h4>
+</div></a>
+<a href="https://wiki.esn.org/display/PR/ESN+External+Relations+Home" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNExternally">ESN Externally</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-AllaboutcurrentpartnersofESN,bothcommercialandinstitutional,includinginformationontheirimplementation">All about current partners of ESN, both commercial and institutional, including information on their implementation</h4>
+</div></a>Â 
+<a href="https://wiki.esn.org/display/HE/A+Brief+History+of+ESN" style="display:inline-block" rel="nofollow" class="conf-macro output-inline" data-hasbody="false" data-macro-name="wiki-button">
+<div class="wiki-button" style="text-align:left;display:inline-block;width: 240px;height:120px;padding:20px;box-shadow: 6px 6px 3px 3px rgba(19, 19, 57, .1); border-radius: 10px;border:1px solid rgba(19, 19, 57, .1)">
+<div style="display: flex; align-items: center;"><img style="height: 40px; float: left; margin-right: 5px;" src="/download/attachments/7045161/WEL?version=2&amp;modificationDate=1564960005425&amp;api=v2" />
+<h2 style="font-size:24px;margin-top:0px;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNArchive">ESN Archive</h2>
+</div>
+<h4 style="font-size:14px;font-weight:400;" id="WelcometoESNWikiESNKnowledgeandInformationPlatform!-ESNeventsolderthan3years,oldlegaldocuments,actionplans,reports,pastprojects,andmore">ESN events older than 3 years, old legal documents, action plans, reports, past projects, and more</h4>
+</div></a></div></p>
+</div>
+<div id="labels-section" class="pageSection group">
+<div class="labels-section-content content-column" entityid="7045162" entitytype="page">
+<div class="labels-content">
+<ul class="label-list label-list-right ">
+<li class="no-labels-message">
+No labels
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="comments-section" class="pageSection group">
+</div>
+</div>
+<div id="space-tools-web-items" class="hidden">
+<div data-label="Overview" data-href="/spaces/viewspacesummary.action?key=WEL">Overview</div>
+<div data-label="Content Tools" data-href="/pages/reorderpages.action?key=WEL">Content Tools</div>
+</div>
+<div id="custom-content-footer">
+<p>Created by NEC &amp; ITcom for ESN International</p>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<section class="footer-body">
+<p class="license license-community">
+Powered by a free <b>Atlassian Confluence Community License</b> granted to Erasmus Student Network. <a href="https://www.atlassian.com/software/views/community-license-request">Evaluate Confluence today</a>.<br>
+</p>
+<ul id="poweredby">
+<li class="noprint">Powered by <a href="https://www.atlassian.com/software/confluence" class="hover-footer-link" rel="nofollow">Atlassian Confluence</a> <span id='footer-build-information'>7.11.6</span></li>
+<li class="print-only">Printed by Atlassian Confluence 7.11.6</li>
+<li class="noprint"><a href="https://support.atlassian.com/help/confluence" class="hover-footer-link" rel="nofollow">Report a bug</a></li>
+<li class="noprint"><a href="https://www.atlassian.com/company" class="hover-footer-link" rel="nofollow">Atlassian News</a></li>
+</ul>
+<div id="footer-logo"><a href="https://www.atlassian.com/" rel="nofollow">Atlassian</a></div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<span style="display:none;" id="confluence-server-performance">{"serverDuration": 89, "requestCorrelationId": "b213b04a7b040894"}</span>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    AJS.BigPipe = AJS.BigPipe || {};
+    AJS.BigPipe.metrics = AJS.BigPipe.metrics || {};
+    AJS.BigPipe.metrics.pageEnd = typeof window.performance !== "undefined" && typeof window.performance.now === "function"
+                                    ? Math.ceil(window.performance.now()) : 0;
+    AJS.BigPipe.metrics.isBigPipeEnabled = '${isBigPipeEnabled}' === 'true';
+</script>
+</body>
+</html>

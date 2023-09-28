@@ -1,0 +1,10 @@
+Partial
+-----------------------------------------------------------------
+ Name      	|    Year |   Grade    |          Hash Code        |
+-----------------------------------------------------------------
+ Gayelord       |       3 |    3.81 | NDOW0RGFZAY7F5OK469JD0LQO | 
+ Genni          |       1 |    3.73 | MGCSI02ROYP5WX5704H3RZ4ZX | 
+ Georgia        |       3 |    5.68 | EYZOU0QV85KYNU10QFM64KRUI | 
+ Gisella        |       2 |    5.36 | 2OLHHHD8M0U1U1ZVL0NXGJVJS | 
+-----------------------------------------------------------------
+

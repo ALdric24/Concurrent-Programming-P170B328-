@@ -1,0 +1,5149 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>Super Hornet Package for SF2 v4.1 - F-18 - CombatACE</title>
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="https://combatace.com/uploads/css_built_9/5e61784858ad3c11f00b5706d12afe52_ie8.css.2a05b05f2ded17a5a979776676f49a0b.css">
+		    <script src="//combatace.com/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	
+		
+			
+				<meta property="og:image" content="https://combatace.com/applications/downloads/interface/legacy/screenshot.php?path=/monthly_09_2015/thumb-fd4e4b45695352245b439ab0e0829b4f-sf1396.jpg">
+			
+		
+	
+
+	
+		
+			
+				<meta name="description" content="THIS IS NOT UNDER THE COMBATACE FREEWARE LICENSE ACCORD
+Â 
+YOU MAY
+Â 
+- Have fun with this mod- Use it as you see fit once you download it, even modify it as y...">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:title" content="Super Hornet Package for SF2 v4.1">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:type" content="object">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:url" content="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:description" content="THIS IS NOT UNDER THE COMBATACE FREEWARE LICENSE ACCORD
+Â 
+YOU MAY
+Â 
+- Have fun with this mod- Use it as you see fit once you download it, even modify it as y...">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:updated_time" content="2022-05-06T14:09:28Z">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="CombatACE">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_US">
+			
+		
+	
+
+<meta name="theme-color" content="#1d3652">
+<link rel="next" href="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2" /><link rel="last" href="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2" /><link rel="canonical" href="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/" />
+
+
+		
+
+
+	
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+	
+
+
+
+	<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/341e4a57816af3ba440d891ca87450ff_framework.css.d54ddc37222c25b56a0598956ca04fca.css?v=fbf6dc641a' media='all'>
+
+	<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/05e81b71abe4f22d6eb8d1a929494829_responsive.css.20d4536a55ec49eed35462c918a9283e.css?v=fbf6dc641a' media='all'>
+
+	<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/90eb5adf50a8c640f633d47fd7eb1778_core.css.441d15e0cbac27090969864a226875b5.css?v=fbf6dc641a' media='all'>
+
+	<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.60e0f504452e3e2dba1582c63d19a8ab.css?v=fbf6dc641a' media='all'>
+
+	<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/63225940445060c5a9f21d31e95bf58e_downloads.css.c221a7f84e30620fbf268bea8ff06414.css?v=fbf6dc641a' media='all'>
+
+	<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/20e9fb241d987e07d4fc702c601c3ed8_downloads_responsive.css.54f05899c72e1f46192e856390db2db0.css?v=fbf6dc641a' media='all'>
+
+
+
+
+<link rel='stylesheet' href='https://combatace.com/uploads/css_built_9/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.7f670c8024adf7309d852e2318375625.css?v=fbf6dc641a' media='all'>
+
+
+
+		
+		
+
+	<link rel='shortcut icon' href='https://combatace.com/uploads/monthly_2019_02/favicon.ico.11b2af8bfe24f77bb370232237081e54.ico'>
+
+		
+      		<script data-ad-client="ca-pub-3122669538278144" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </head>
+	<body class='ipsApp ipsApp_front ipsJS_none ipsClearfix' data-controller='core.front.core.app' data-message="" data-pageApp='downloads' data-pageLocation='front' data-pageModule='downloads' data-pageController='view'>
+		<a href='#elContent' class='ipsHide' title='Go to main content on this page' accesskey='m'>Jump to content</a>
+		
+		<div id='ipsLayout_header' class='ipsClearfix'>
+          <span style='display:none;'>
+</span>
+			
+
+
+			
+<ul id='elMobileNav' class='ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block' data-controller='core.front.core.mobileNav' data-default="downloads_file">
+	
+		
+			
+			
+				
+				
+			
+				
+				
+			
+				
+				
+			
+				
+				
+			
+				
+				
+			
+				
+				
+			
+				
+					<li id='elMobileBreadcrumb'>
+						<a href='https://combatace.com/files/category/667-f-18/'>
+							<span>F-18</span>
+						</a>
+					</li>
+				
+				
+			
+				
+				
+			
+		
+	
+	
+	
+	<li >
+		<a data-action="defaultStream" class='ipsType_light'  href='https://combatace.com/discover/'><i class='icon-newspaper'></i></a>
+	</li>
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://combatace.com/search/' data-action="mobileSearch"><i class='fa fa-search'></i></a>
+		</li>
+	
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+				
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul>
+			<header>
+				<div class='ipsLayout_container'>
+					
+
+
+<a href='https://combatace.com/' id='elLogo' accesskey='1'><img src="https://combatace.com/uploads/monthly_2021_03/combatace_live.png.526f005222dd0b8adb3783bc38676a67.png" alt='CombatACE'></a>
+
+					
+
+	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block">
+		
+		
+	
+
+
+	<li class='cUserNav_icon ipsHide' id='elCart_container'></li>
+	<li class='elUserNav_sep ipsHide' id='elCart_sep'></li>
+
+<li id="elSignInLink">
+			
+				<a href="https://combatace.com/login/" data-ipsmenu-closeonclick="false" data-ipsmenu id="elUserSignIn">
+					Existing user? Sign In Â <i class="fa fa-caret-down"></i>
+				</a>
+			
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<div data-role="loginForm">
+		
+		
+			
+				
+<form accept-charset='utf-8' class="ipsPad ipsForm ipsForm_vertical" method='post' action='https://combatace.com/login/' data-ipsValidation novalidate>
+	<input type="hidden" name="login__standard_submitted" value="1">
+	
+		<input type="hidden" name="csrfKey" value="372db5f62786169b8ba16ab0c80dbc58">
+	
+	<h4 class="ipsType_sectionHead">Sign In</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		
+			
+				
+					<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+						<input type="text" required placeholder="Display Name" name='auth' id='auth'>
+					</li>
+				
+			
+				
+					<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+						<input type="password" required placeholder="Password" name='password' id='password'>
+					</li>
+				
+			
+				
+					
+<li class='ipsFieldRow ipsFieldRow_checkbox ipsClearfix ' id="9c7ffa65f11c317804907d1e35f70d9d">
+	
+		
+		
+<input type="hidden" name="remember_me" value="0">
+<span class='ipsCustomInput'>
+	<input
+		type='checkbox'
+		name='remember_me_checkbox'
+		value='1'
+		id="check_9c7ffa65f11c317804907d1e35f70d9d"
+		data-toggle-id="9c7ffa65f11c317804907d1e35f70d9d"
+		checked aria-checked='true'
+		
+		
+		
+		
+		
+		
+	>
+	
+	<span></span>
+</span>
+
+
+		
+		<div class='ipsFieldRow_content'>
+			<label class='ipsFieldRow_label' for='check_9c7ffa65f11c317804907d1e35f70d9d'>Remember me </label>
+			
+
+
+<span class='ipsFieldRow_desc'>
+	Not recommended on shared computers
+</span>
+			
+			
+		</div>
+	
+</li>
+				
+			
+		
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<br>
+			<button type="submit" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button>
+			<br>
+			<p class="ipsType_right ipsType_small">
+				<a href='https://combatace.com/lostpassword/' data-ipsDialog data-ipsDialog-title='Forgot your password?'>Forgot your password?</a>
+			</p>
+		</li>
+	</ul>
+</form>
+			
+		
+		
+	</div>
+</div>
+		</li>
+		
+			<li>
+				<a href="https://combatace.com/register/"  id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">
+						Sign Up
+				</a>
+			</li>
+		
+	</ul>
+
+				</div>
+			</header>
+			
+
+	<nav data-controller='core.front.core.navBar' class=''>
+		<div class='ipsNavBar_primary ipsLayout_container  ipsClearfix'>
+			
+				<div id='elSearch' class='ipsPos_right' data-controller='core.front.core.quickSearch' data-default="downloads_file">
+					<form accept-charset='utf-8' action='//combatace.com/search/' method='post'>
+						<a href='#' id='elSearchFilter' data-ipsMenu data-ipsMenu-selectable='radio' data-ipsMenu-appendTo='#elSearch' class="ipsHide">
+							<span data-role='searchingIn'>
+								
+									
+										This File
+										
+										
+											<input name="type" value="downloads_file" data-role="searchFilter" type="hidden">
+										
+											<input name="item" value="9401" data-role="searchFilter" type="hidden">
+										
+										
+								
+							</span>
+							<i class='fa fa-caret-down'></i>
+						</a>
+						<input type="hidden" name="type" value="downloads_file" data-role="searchFilter">
+						<ul id='elSearchFilter_menu' class='ipsMenu ipsMenu_selectable ipsMenu_narrow ipsHide'>
+							<li class='ipsMenu_item ' data-ipsMenuValue='all'>
+								<a href='https://combatace.com/index.php?app=core&amp;module=search&amp;controller=search&amp;csrfKey=372db5f62786169b8ba16ab0c80dbc58' title='All Content'>All Content</a>
+							</li>
+							<li class='ipsMenu_sep'><hr></li>
+							
+								
+								
+									<li class='ipsMenu_item ipsMenu_itemChecked' data-ipsMenuValue='{&quot;type&quot;:&quot;downloads_file&quot;,&quot;item&quot;:9401}' data-options='{&quot;type&quot;:&quot;downloads_file&quot;,&quot;item&quot;:9401}'>
+										<a href='#'>This File</a>
+									</li>
+								
+									<li class='ipsMenu_item ' data-ipsMenuValue='{&quot;type&quot;:&quot;downloads_file&quot;,&quot;nodes&quot;:667}' data-options='{&quot;type&quot;:&quot;downloads_file&quot;,&quot;nodes&quot;:667}'>
+										<a href='#'>This Category</a>
+									</li>
+								
+								<li class='ipsMenu_sep'><hr></li>
+							
+							<li data-role='globalSearchMenuOptions'></li>
+							<li class='ipsMenu_item ipsMenu_itemNonSelect'>
+								<a href='https://combatace.com/search/' accesskey='4'><i class='fa fa-cog'></i> Advanced Search</a>
+							</li>
+						</ul>
+						<input type='search' id='elSearchField' placeholder='Search...' name='q'>
+						<button type='submit'><i class='fa fa-search'></i></button>
+					</form>
+				</div>
+			
+			<ul data-role="primaryNavBar" class='ipsResponsive_showDesktop ipsResponsive_block'>
+				
+
+
+	
+		
+		
+		<li  id='elNavSecondary_1' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://combatace.com"  data-navItem-id="1" >
+					Browse
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+
+	
+		
+		
+		<li  id='elNavSecondary_37' data-role="navBarItem" data-navApp="portal" data-navExt="Portal">
+			
+			
+				<a href="https://combatace.com"  data-navItem-id="37" >
+					Home
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_10' data-role="navBarItem" data-navApp="forums" data-navExt="Forums">
+			
+			
+				<a href="https://combatace.com/forums/"  data-navItem-id="10" >
+					Forums
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_3' data-role="navBarItem" data-navApp="core" data-navExt="Clubs">
+			
+			
+				<a href="https://combatace.com/clubs/"  data-navItem-id="3" >
+					Clubs
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_12' data-role="navBarItem" data-navApp="gallery" data-navExt="Gallery">
+			
+			
+				<a href="https://combatace.com/gallery/"  data-navItem-id="12" >
+					Gallery
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_30' data-role="navBarItem" data-navApp="core" data-navExt="StaffDirectory">
+			
+			
+				<a href="https://combatace.com/staff/"  data-navItem-id="30" >
+					Staff
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_32' data-role="navBarItem" data-navApp="core" data-navExt="Leaderboard">
+			
+			
+				<a href="https://combatace.com/leaderboard/"  data-navItem-id="32" >
+					Leaderboard
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_34' data-role="navBarItem" data-navApp="core" data-navExt="OnlineUsers">
+			
+			
+				<a href="https://combatace.com/online/"  data-navItem-id="34" >
+					Online Users
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_11' data-role="navBarItem" data-navApp="calendar" data-navExt="Calendar">
+			
+			
+				<a href="https://combatace.com/calendar/"  data-navItem-id="11" >
+					Calendar
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+					<li class='ipsHide' id='elNavigationMore_1' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_1' id='elNavigationMore_1_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_1_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_2' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://combatace.com/discover/"  data-navItem-id="2" >
+					Activity
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+
+	
+		
+		
+		<li  id='elNavSecondary_4' data-role="navBarItem" data-navApp="core" data-navExt="AllActivity">
+			
+			
+				<a href="https://combatace.com/discover/"  data-navItem-id="4" >
+					All Activity
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+					<li class='ipsHide' id='elNavigationMore_2' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_2' id='elNavigationMore_2_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_2_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_43' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://combatace.com/files/"  data-navItem-id="43" data-navDefault>
+					Downloads
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ' data-role='secondaryNavBar'>
+					
+
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_45' data-role="navBarItem" data-navApp="downloads" data-navExt="Downloads">
+			
+			
+				<a href="https://combatace.com/files/"  data-navItem-id="45" data-navDefault>
+					Files Portal
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_44' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://combatace.com/files/categories/"  data-navItem-id="44" >
+					Files Categories
+				</a>
+			
+			
+		</li>
+	
+	
+
+					<li class='ipsHide' id='elNavigationMore_43' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_43' id='elNavigationMore_43_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_43_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_26' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://combatace.com/support/"  data-navItem-id="26" >
+					Site Support
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+
+	
+	
+
+	
+	
+
+					<li class='ipsHide' id='elNavigationMore_26' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_26' id='elNavigationMore_26_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_26_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+	
+
+				<li class='ipsHide' id='elNavigationMore' data-role='navMore'>
+					<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore' id='elNavigationMore_dropdown'>More</a>
+					<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+						<li class='ipsHide' id='elNavigationMore_more' data-role='navMore'>
+							<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_more' id='elNavigationMore_more_dropdown'>More <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_more_dropdown_menu' data-role='moreDropdown'></ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+		</div>
+		<main id='ipsLayout_body' class='ipsLayout_container'>
+			<div id='ipsLayout_contentArea'>
+				<div id='ipsLayout_contentWrapper'>
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover'>
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://combatace.com/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://combatace.com/'>
+				<span><i class='fa fa-home'></i> Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://combatace.com/files/'>
+						<span>Downloads <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/2-strike-fighters-by-thirdwire/'>
+						<span>Strike Fighters by Thirdwire <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/388-strike-fighters-2-series-by-thirdwire/'>
+						<span>Strike Fighters 2 Series by Thirdwire <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/430-add-on-aircraft/'>
+						<span>Add-On Aircraft <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/445-modern-era-4gen-aircraft/'>
+						<span>Modern Era (4Gen+) Aircraft <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/485-us-origin/'>
+						<span>US Origin <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/667-f-18/'>
+						<span>F-18 <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					Super Hornet Package for SF2 v4.1
+				
+			</li>
+		
+	</ul>
+</nav>
+					
+					<div id='ipsLayout_mainArea'>
+						<a id='elContent'></a>
+
+
+
+
+	<div align="center" style="margin-bottom:20px;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Global Banner -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3122669538278144"
+     data-ad-slot="9428887982"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+                      	
+						
+						
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='header'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox ipsWidgetHide ipsHide' data-blockID='app_core_announcements_announcements' data-blockConfig="true" data-blockTitle="Announcements" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller='core.front.widgets.block'></li>
+				
+			
+		</ul>
+	</div>
+
+						
+
+
+<div>
+	<div class='ipsColumns ipsColumns_collapsePhone ipsClearfix'>
+		<div class='ipsColumn ipsColumn_fluid'>
+			<div class='ipsPageHeader ipsClearfix ipsSpacer_bottom'>
+				<h1 class='ipsType_pageTitle ipsContained_container'>
+					
+					
+					
+					
+					
+						<span class='ipsType_break ipsContained'>Super Hornet Package for SF2 v4.1 5.3</span>
+					
+				</h1>
+
+				
+
+				
+					<div>
+						
+<div  class='ipsClearfix ipsRating  ipsRating_large'>
+	
+	<ul class='ipsRating_collective'>
+		
+			
+				<li class='ipsRating_on'>
+					<i class='fa fa-star'></i>
+				</li>
+			
+		
+			
+				<li class='ipsRating_on'>
+					<i class='fa fa-star'></i>
+				</li>
+			
+		
+			
+				<li class='ipsRating_on'>
+					<i class='fa fa-star'></i>
+				</li>
+			
+		
+			
+				<li class='ipsRating_on'>
+					<i class='fa fa-star'></i>
+				</li>
+			
+		
+			
+				<li class='ipsRating_half'>
+					<i class='fa fa-star-half'></i><i class='fa fa-star-half fa-flip-horizontal'></i>
+				</li>
+			
+		
+	</ul>
+</div>&nbsp;&nbsp; <span class='ipsType_normal ipsType_light'>(31 reviews)</span>
+					</div>
+				
+
+				<div class='ipsPos_right ipsResponsive_noFloat ipsResponsive_hidePhone'>
+					
+
+<div data-followApp='downloads' data-followArea='file' data-followID='9401' data-controller='core.front.core.followButton'>
+	
+		<span class='ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline'><i class='fa fa-info-circle'></i> <a href='https://combatace.com/login/' title='Go to the sign in page'>Sign in to follow this</a>&nbsp;&nbsp;</span>
+	
+	
+
+	<div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton">
+		
+			<a href='https://combatace.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=downloads&amp;follow_area=file&amp;follow_id=9401' title='See who follows this' class='ipsType_blendLinks ipsType_noUnderline' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>Followers</a>
+			<a class='ipsCommentCount' href='https://combatace.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=downloads&amp;follow_area=file&amp;follow_id=9401' title='See who follows this' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>22</a>
+		
+	</div>
+
+</div>
+				</div>
+				<div class='ipsPos_right ipsResponsive_noFloat ipsResponsive_hidePhone'>
+					
+
+
+
+
+
+
+				</div>
+			</div>
+			<hr class='ipsHr ipsResponsive_hidePhone'>
+
+			<div class='ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix ipsSpacer_bottom'>
+				
+
+
+	<a href="https://combatace.com/profile/5735-ericj/" data-ipshover data-ipshover-target="https://combatace.com/profile/5735-ericj/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to EricJ's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-5735.png" alt="EricJ" itemprop="image"> 
+
+	</a>
+
+				<div>
+					<p class='ipsType_reset ipsType_large ipsType_blendLinks'>
+						By 
+<a href='https://combatace.com/profile/5735-ericj/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/5735-ericj/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to EricJ's profile" class="ipsType_break">EricJ</a>
+					</p>
+					
+					<ul class='ipsList_inline'>
+						
+							<li><a href='https://combatace.com/profile/5735-ericj/content/?type=downloads_file'>Find their other files</a></li>
+						
+						
+					</ul>
+					
+				</div>
+			</div>	
+
+			
+		</div>
+
+	</div>
+
+	
+
+	
+	
+
+	<div class='ipsBox ipsSpacer_top ipsSpacer_double'>
+		
+			<section>
+				<h2 class='ipsType_sectionTitle ipsType_reset ipsHide'>1 Screenshot</h2>
+				<div class='ipsPad ipsAreaBackground'>
+					<div class='ipsCarousel ipsClearfix' data-ipsCarousel data-ipsCarousel-showDots>
+						<ul class='cDownloadsCarousel ipsClearfix' data-role="carouselItems">
+							
+							
+								<li class='ipsCarousel_item ipsAreaBackground_reset ipsPad_half'>
+									<span style="background-image: url( 'https://combatace.com/applications/downloads/interface/legacy/screenshot.php?path=/monthly_09_2015/thumb-fd4e4b45695352245b439ab0e0829b4f-sf1396.jpg' )" class="ipsThumb ipsThumb_medium ipsThumb_bg ipsCursor_pointer" data-ipsLightbox data-ipsLightbox-group="download_9401" data-fullURL="https://combatace.com/applications/downloads/interface/legacy/screenshot.php?path=/monthly_09_2015/fd4e4b45695352245b439ab0e0829b4f-sf1396.jpg">
+										<img src="https://combatace.com/applications/downloads/interface/legacy/screenshot.php?path=/monthly_09_2015/thumb-fd4e4b45695352245b439ab0e0829b4f-sf1396.jpg" alt="">
+									</span>
+								</li>
+							
+						</ul>
+						<span class='ipsCarousel_shadow ipsCarousel_shadowLeft'></span>
+						<span class='ipsCarousel_shadow ipsCarousel_shadowRight'></span>
+						<a href='#' class='ipsCarousel_nav ipsHide' data-action='prev'><i class='fa fa-chevron-left'></i></a>
+						<a href='#' class='ipsCarousel_nav ipsHide' data-action='next'><i class='fa fa-chevron-right'></i></a>
+					</div>
+				</div>
+			</section>
+		 
+		<div class='ipsColumns ipsColumns_collapsePhone'>
+			<article class='ipsColumn ipsColumn_fluid'>
+				<div class='ipsPad'>
+					<h2 class='ipsType_sectionHead'>About This File</h2>
+					<section class='ipsType_normal ipsSpacer_top'>
+						<div class='ipsType_richText ipsContained ipsType_break' itemprop='text' data-controller='core.front.core.lightboxedImages'>
+							
+<p><span style="font-size:18px;">THIS IS NOT UNDER THE COMBATACE FREEWARE LICENSE ACCORD</span></p>
+<p>Â </p>
+<p><span style="font-size:18px;">YOU MAY</span></p>
+<p>Â </p>
+<p><span style="font-size:18px;">- Have fun with this mod</span><br><span style="font-size:18px;">- Use it as you see fit once you download it, even modify it as you see fit</span><br><span style="font-size:18px;">- Create your own textures as you see fit and upload them under your name</span></p>
+<p>Â </p>
+<p>IF you wish to send me any modified core files (I don't need to review skins as that doesn't affect any core files) please PM me the modified files and I will check them out. There is no exception to this policy given my attitude towards staying out of jail. I will check them out and yay or nay the decision, but if I can edit any files in order to not go to jail, I will inform you and that will be it. I understand you may have information of a sensitive nature that you may have access to and frankly it does not belong in any files of this download. If that bothers you then please don't send me sensitive information, I think I've made it clear that I'm not going to jail in order to appease to players.</p>
+<p>Â </p>
+<p><a href="https://combatace.com/topic/35624-my-projects/" rel="">http://combatace.com...24-my-projects/</a></p>
+<p>Â </p>
+<p>Newer skin PSD with Block I ECS (no stacks) now available for skinning needs:<br><a href="https://combatace.com/topic/77217-super-hornet-skin-template/" rel="">http://combatace.com...-skin-template/</a></p>
+<p>Â </p>
+<p>- Fixed some glaring errors in the INI files.</p>
+
+						</div>
+
+						
+							<hr class='ipsHr ipsSpacer_both ipsSpacer_double'>
+							<section data-controller='downloads.front.view.changeLog'>
+								<h2 class='ipsType_sectionHead'>What's New in Version <span data-role='versionTitle'>5.3</span></h2>
+
+								<div data-role='changeLogData'>
+									
+<p class='ipsType_reset ipsType_light'>Released <time datetime='2022-05-06T14:09:28Z' title='05/06/2022 02:09  PM' data-short='May 6'>May 6</time></p>
+<div class='ipsType_richText ipsType_normal'>
+	
+		
+<ul>
+	<li>
+		5.3<br />
+		- Tweaked radars to Wikipedia ranges (80nm for Block I jets, and 100nm for Block II jets).<br />
+		- Radar ranges for the Block IIs are a "treat" as I want the AIM-120D to be used efficiently with the radars
+	</li>
+	<li>
+		Included an "Invisible ASM" in case you want to load pylons on the Growler instead of stores. It functions like a bomb and you can get rid of it by going to the AG submode and "dropping" them if you don't like it on the SMS screen.
+	</li>
+</ul>
+
+	
+</div>
+
+								</div>
+								<ul class='ipsMenu ipsMenu_selectable ipsMenu_auto ipsHide' id='elChangelog_menu'>
+									<li class='ipsMenu_item ipsMenu_itemChecked' data-ipsMenuValue='5.3'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?changelog=0' title='See changelog for version 5.3'>5.3</a></li>
+									
+								</ul>
+							</section>
+						
+
+						
+							<div class='ipsItemControls'>
+								
+									
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ' data-role='reactionBlurb'>
+					
+						
+
+
+	<ul class='ipsReact_reactions'>
+	
+		
+		<li class='ipsReact_reactCount'>
+			
+				<span data-ipsTooltip title="Like">
+			
+					<span>
+						<img src='https://combatace.com/uploads/reactions/react_like.png' alt="Like">
+					</span>
+					<span>
+						12
+					</span>
+			
+				</span>
+			
+		</li>
+	
+		
+		<li class='ipsReact_reactCount'>
+			
+				<span data-ipsTooltip title="Thanks">
+			
+					<span>
+						<img src='https://combatace.com/uploads/reactions/react_thanks.png' alt="Thanks">
+					</span>
+					<span>
+						8
+					</span>
+			
+				</span>
+			
+		</li>
+	
+		
+		<li class='ipsReact_reactCount'>
+			
+				<span data-ipsTooltip title="Dislike">
+			
+					<span>
+						<img src='https://combatace.com/uploads/reactions/react_down.png' alt="Dislike">
+					</span>
+					<span>
+						1
+					</span>
+			
+				</span>
+			
+		</li>
+	
+	</ul>
+
+<div class='ipsReact_overview ipsType_blendLinks'>
+	
+	
+</div>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+								
+								
+							</div>
+						
+					</section>
+				</div>
+			</article>
+			<aside class='ipsColumn ipsColumn_veryWide'>
+				<div class='ipsPad'>
+					<ul class="ipsToolList ipsToolList_vertical ipsClearfix">
+						
+							
+								
+
+<span class="ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline"><i class="fa fa-info-circle"></i> Create an account or sign in to download this</span>
+
+							
+						
+						
+					</ul>
+					<hr class='ipsHr'>
+
+				
+					<a href='https://combatace.com/forums/topic/44114-super-hornet-package-for-sf2-v41/' title='Get support for this download' class='ipsButton ipsButton_normal ipsButton_fullWidth'><span style="font-size:15px;">Get Support</span></a>
+					<br>
+				
+				<h2 class='ipsType_sectionHead'>File Information</h2>
+				<ul class="ipsDataList ipsDataList_reducedSpacing ipsSpacer_top">
+					<li class="ipsDataItem">
+						<span class="ipsDataItem_generic ipsDataItem_size3"><strong>Views</strong></span>
+						<span class="ipsDataItem_generic cFileInfoData">63,668</span>
+					</li>
+					
+					
+						<li class="ipsDataItem">
+							<span class="ipsDataItem_generic ipsDataItem_size3"><strong>Downloads</strong></span>
+							<span class="ipsDataItem_generic cFileInfoData">11,665</span>
+						</li>
+					
+					<li class="ipsDataItem">
+						<span class="ipsDataItem_generic ipsDataItem_size3"><strong>Submitted</strong></span>
+						<span class="ipsDataItem_generic cFileInfoData"><time datetime='2009-07-09T21:22:40Z' title='07/09/2009 09:22  PM' data-short='13 yr'>July 9, 2009</time></span>
+					</li>
+					
+						<li class="ipsDataItem">
+							<span class="ipsDataItem_generic ipsDataItem_size3"><strong>Updated</strong></span>
+							<span class="ipsDataItem_generic cFileInfoData"><time datetime='2022-05-06T14:09:28Z' title='05/06/2022 02:09  PM' data-short='May 6'>May 6</time></span>
+						</li>
+					
+					
+						<li class="ipsDataItem">
+							<span class="ipsDataItem_generic ipsDataItem_size3"><strong>File Size</strong></span>
+							<span class="ipsDataItem_generic cFileInfoData">170.15 MB</span>
+						</li>
+					
+					
+
+					
+
+					<div class='ipsResponsive_showPhone ipsResponsive_block ipsSpacer_top'>
+						
+
+<div data-followApp='downloads' data-followArea='file' data-followID='9401' data-controller='core.front.core.followButton'>
+	
+		<span class='ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline'><i class='fa fa-info-circle'></i> <a href='https://combatace.com/login/' title='Go to the sign in page'>Sign in to follow this</a>&nbsp;&nbsp;</span>
+	
+	
+
+	<div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton">
+		
+			<a href='https://combatace.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=downloads&amp;follow_area=file&amp;follow_id=9401' title='See who follows this' class='ipsType_blendLinks ipsType_noUnderline' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>Followers</a>
+			<a class='ipsCommentCount' href='https://combatace.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=downloads&amp;follow_area=file&amp;follow_id=9401' title='See who follows this' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>22</a>
+		
+	</div>
+
+</div>
+					</div>
+					<div class='ipsResponsive_showPhone ipsResponsive_block ipsSpacer_top'>
+						
+
+
+
+
+
+
+					</div>
+				</div>
+			</aside>
+		</div>
+	</div>
+	<br>
+	
+	
+		<div class='ipsGrid ipsGrid_collapsePhone ipsPager ipsSpacer_top'>
+			
+				<div class="ipsGrid_span6 ipsType_left ipsPager_prev">
+					<a href="https://combatace.com/files/file/16717-cf-188b/" title="Previous File">
+						<span class="ipsPager_type">Previous File</span>
+						<span class="ipsPager_title ipsType_light ipsTruncate ipsTruncate_line">CF-188B</span>
+					</a>
+				</div>
+			
+			
+				<div class='ipsGrid_span6'>&nbsp;</div>
+			
+		</div>
+		<hr class='ipsHr'>
+	
+
+	
+		
+
+	<ul class='ipsList_inline ipsList_noSpacing ipsClearfix' data-controller="core.front.core.sharelink">
+		
+			<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcombatace.com%2Ffiles%2Ffile%2F9401-super-hornet-package-for-sf2-v41%2F" class="cShareLink cShareLink_facebook" target="_blank" data-role="shareLink" title='Share on Facebook' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-facebook"></i>
+</a></li>
+		
+			<li>
+<a href="http://twitter.com/share?text=Super%20Hornet%20Package%20for%20SF2%20v4.1%20%23CombatACE&amp;url=https%3A%2F%2Fcombatace.com%2Ffiles%2Ffile%2F9401-super-hornet-package-for-sf2-v41%2F" class="cShareLink cShareLink_twitter" target="_blank" data-role="shareLink" title='Share on Twitter' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-twitter"></i>
+</a></li>
+		
+			<li>
+<a href="http://pinterest.com/pin/create/button/?url=https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/&amp;media=https://combatace.com/uploads/monthly_2021_04/ca_brand.gif.d59f62dd6c201fe1ce1e7022f48a3079.gif" class="cShareLink cShareLink_pinterest" target="_blank" data-role="shareLink" title='Share on Pinterest' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-pinterest"></i>
+</a></li>
+		
+	</ul>
+
+		<br>
+	
+
+	
+		<a id="replies"></a>
+		<h2 class='ipsHide'>User Feedback</h2>
+		
+<div data-controller='core.front.core.commentsWrapper' data-tabsId='8c6be29351e64ae361fccf970cdb4cde'>
+	
+<div class='ipsTabs ipsClearfix' id='elTabs_8c6be29351e64ae361fccf970cdb4cde' data-ipsTabBar data-ipsTabBar-contentArea='#ipsTabs_content_8c6be29351e64ae361fccf970cdb4cde' >
+	<a href='#elTabs_8c6be29351e64ae361fccf970cdb4cde' data-action='expandTabs'><i class='fa fa-caret-down'></i></a>
+	<ul role='tablist'>
+		
+			<li>
+				<a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?tab=reviews' id='8c6be29351e64ae361fccf970cdb4cde_tab_reviews' class="ipsTabs_item ipsTabs_activeItem" title='31 Reviews' role="tab" aria-selected="true">
+					31 Reviews
+				</a>
+			</li>
+		
+			<li>
+				<a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?tab=comments' id='8c6be29351e64ae361fccf970cdb4cde_tab_comments' class="ipsTabs_item " title='43 Comments' role="tab" aria-selected="false">
+					43 Comments
+				</a>
+			</li>
+		
+	</ul>
+</div>
+<section id='ipsTabs_content_8c6be29351e64ae361fccf970cdb4cde' class='ipsTabs_panels ipsTabs_contained'>
+	
+		
+			<div id='ipsTabs_elTabs_8c6be29351e64ae361fccf970cdb4cde_8c6be29351e64ae361fccf970cdb4cde_tab_reviews_panel' class="ipsTabs_panel" aria-labelledby="8c6be29351e64ae361fccf970cdb4cde_tab_reviews" aria-hidden="false">
+				
+<div data-controller='core.front.core.commentFeed' data-autoPoll data-commentsType='reviews' data-baseURL='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/'  data-feedID='file-9401-reviews' id='reviews'>
+	
+		
+			<p class='ipsType_reset ipsType_light ipsType_normal'>You may only provide a review once you have downloaded the file.</p>
+		
+	
+	
+		<hr class='ipsHr'>
+		<div class="ipsClearfix ipsSpacer_bottom">
+			
+				<div class="ipsPos_left ipsResponsive_noFloat">
+					
+
+	
+	<ul class='ipsPagination' id='elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d33b6f' data-pages='2' >
+		
+			
+				<li class='ipsPagination_first ipsPagination_inactive'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/' rel="first" data-page='1' data-ipsTooltip title='First page'><i class='fa fa-angle-double-left'></i></a></li>
+				<li class='ipsPagination_prev ipsPagination_inactive'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=0' rel="prev" data-page='0' data-ipsTooltip title='Previous page'>Prev</a></li>
+			
+			<li class='ipsPagination_page ipsPagination_active'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/' data-page='1'>1</a></li>
+			
+				
+					<li class='ipsPagination_page'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2' data-page='2'>2</a></li>
+				
+				<li class='ipsPagination_next'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2' rel="next" data-page='2' data-ipsTooltip title='Next page'>Next</a></li>
+				<li class='ipsPagination_last'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2' rel="last" data-page='2' data-ipsTooltip title='Last page'><i class='fa fa-angle-double-right'></i></a></li>
+			
+			
+				<li class='ipsPagination_pageJump'>
+					<a href='#' data-ipsMenu data-ipsMenu-closeOnClick='false' data-ipsMenu-appendTo='#elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d33b6f' id='elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d33b6f_jump'>Page 1 of 2 &nbsp;<i class='fa fa-caret-down'></i></a>
+					<div class='ipsMenu ipsMenu_narrow ipsPad ipsHide' id='elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d33b6f_jump_menu'>
+						<form accept-charset='utf-8' method='post' action='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/' data-role="pageJump">
+							<ul class='ipsForm ipsForm_horizontal'>
+								<li class='ipsFieldRow'>
+									<input type='number' min='1' max='2' placeholder='Page number' class='ipsField_fullWidth' name='page'>
+								</li>
+								<li class='ipsFieldRow ipsFieldRow_fullWidth'>
+									<input type='submit' class='ipsButton_fullWidth ipsButton ipsButton_verySmall ipsButton_primary' value='Go'>
+								</li>
+							</ul>
+						</form>
+					</div>
+				</li>
+			
+		
+	</ul>
+
+				</div>
+			
+			<div class="ipsClearfix ipsPos_right ipsResponsive_hidePhone">
+				<ul class="ipsButtonRow ipsClearfix">
+					<li data-action="tableFilter">
+						<a href="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?tab=reviews&amp;page=1&amp;sort=helpful" class="ipsButtonRow_active" data-action="filterClick">Most Helpful</a>
+					</li>
+					<li data-action="tableFilter">
+						<a href="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?tab=reviews&amp;page=1&amp;sort=newest" class="" data-action="filterClick">Newest</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		<div data-role='commentFeed' data-controller='core.front.core.moderation'>
+			<form action="https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?csrfKey=372db5f62786169b8ba16ab0c80dbc58&amp;do=multimodReview" method="post" data-ipsPageAction data-role='moderationTools'>
+				
+				
+					
+					
+					
+
+
+	<a id='review-11209'></a>
+	<article id="elReview_11209" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11209_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11209" data-quoteData='{&quot;userid&quot;:230,&quot;username&quot;:&quot;Dave&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11209}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/230-dave/" data-ipshover data-ipshover-target="https://combatace.com/profile/230-dave/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Dave's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/19400145_697389700463481_6139040532665039627_n.jpg.3bcc70c976992c1df4812f7232ffd5e1.jpg" alt="Dave" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11209' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11209' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/230-dave/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/230-dave/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Dave's profile" class="ipsType_break">Dave</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 2,304
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	3 of 3 members found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 3 / 3 members
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11209" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11209_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11209' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11231'></a>
+	<article id="elReview_11231" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11231_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11231" data-quoteData='{&quot;userid&quot;:93127,&quot;username&quot;:&quot;Hornet54&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11231}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/93127-hornet54/" data-ipshover data-ipshover-target="https://combatace.com/profile/93127-hornet54/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Hornet54's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-93127.png" alt="Hornet54" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11231' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11231' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/93127-hornet54/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/93127-hornet54/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Hornet54's profile" class="ipsType_break">Hornet54</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 5
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	2 of 2 members found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 2 / 2 members
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11231" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11231_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11231' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-26404'></a>
+	<article id="elReview_26404" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-26404_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="26404" data-quoteData='{&quot;userid&quot;:91735,&quot;username&quot;:&quot;jhon&quot;,&quot;timestamp&quot;:1634324053,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:26404}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/91735-jhon/" data-ipshover data-ipshover-target="https://combatace.com/profile/91735-jhon/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to jhon's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2022_04/6259937c6ed34_PARrondella.thumb.png.017cc10d65ff17582c0ed1604d45298b.png" alt="jhon" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=26404' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_26404' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/91735-jhon/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/91735-jhon/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to jhon's profile" class="ipsType_break">jhon</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 28
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2021-10-15T18:54:13Z' title='10/15/2021 06:54  PM' data-short='1 yr'>October 15, 2021</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	1 of 1 member found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 1 / 1 member
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-26404" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+<p>
+	WOW !!! amazing mod !!!
+</p>
+
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_26404_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=26404' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-25554'></a>
+	<article id="elReview_25554" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-25554_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="25554" data-quoteData='{&quot;userid&quot;:63866,&quot;username&quot;:&quot;JosefK&quot;,&quot;timestamp&quot;:1546772002,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:25554}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/63866-josefk/" data-ipshover data-ipshover-target="https://combatace.com/profile/63866-josefk/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to JosefK's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2019_02/medium.5c613a3579153_img01916squarecrop.jpg.14d9e7246292f91440e06c65b3c0b735.thumb.jpg.8dbe783b7d614b2ff6c4b76efec83e22.jpg" alt="JosefK" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=25554' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_25554' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/63866-josefk/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/63866-josefk/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to JosefK's profile" class="ipsType_break">JosefK</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 907
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2019-01-06T10:53:22Z' title='01/06/2019 10:53  AM' data-short='3 yr'>January 6, 2019</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	1 of 1 member found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 1 / 1 member
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-25554" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+<p>
+	Really appreciate having the Super Hornet part of the SF2 universe.Â  ThisÂ Super Hornet build is absolutely outstanding in color and flight model and realism - and easy to paint too!Â Â 
+</p>
+
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_25554_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=25554' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11210'></a>
+	<article id="elReview_11210" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11210_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11210" data-quoteData='{&quot;userid&quot;:18056,&quot;username&quot;:&quot;woodoo&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11210}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/18056-woodoo/" data-ipshover data-ipshover-target="https://combatace.com/profile/18056-woodoo/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to woodoo's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/W.png.6c42e872fa85763d9b9d29a3238df962.png" alt="woodoo" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11210' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11210' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/18056-woodoo/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/18056-woodoo/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to woodoo's profile" class="ipsType_break">woodoo</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 1
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	1 of 1 member found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 1 / 1 member
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11210" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11210_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11210' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11215'></a>
+	<article id="elReview_11215" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11215_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11215" data-quoteData='{&quot;userid&quot;:33839,&quot;username&quot;:&quot;Tincho&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11215}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/33839-tincho/" data-ipshover data-ipshover-target="https://combatace.com/profile/33839-tincho/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Tincho's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-33839.jpg" alt="Tincho" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11215' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11215' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/33839-tincho/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/33839-tincho/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Tincho's profile" class="ipsType_break">Tincho</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	1 of 1 member found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 1 / 1 member
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11215" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11215_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11215' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11212'></a>
+	<article id="elReview_11212" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11212_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11212" data-quoteData='{&quot;userid&quot;:74069,&quot;username&quot;:&quot;manizaeim&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11212}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/74069-manizaeim/" data-ipshover data-ipshover-target="https://combatace.com/profile/74069-manizaeim/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to manizaeim's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/M.png.0c8aa03faa9abe5e3850039a3a45f181.png" alt="manizaeim" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11212' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11212' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/74069-manizaeim/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/74069-manizaeim/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to manizaeim's profile" class="ipsType_break">manizaeim</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_off'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	0 of 1 member found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 0 / 1 member
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11212" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11212_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11212' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11222'></a>
+	<article id="elReview_11222" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11222_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11222" data-quoteData='{&quot;userid&quot;:84319,&quot;username&quot;:&quot;skyknight0721&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11222}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/84319-skyknight0721/" data-ipshover data-ipshover-target="https://combatace.com/profile/84319-skyknight0721/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to skyknight0721's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/S.png.8622bfb5539f01618e80ee64cc0d044b.png" alt="skyknight0721" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11222' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11222' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/84319-skyknight0721/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/84319-skyknight0721/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to skyknight0721's profile" class="ipsType_break">skyknight0721</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 13
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_off'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_off'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_off'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_off'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; <strong class='ipsType_medium'>
+
+<span class='ipsResponsive_hidePhone ipsResponsive_inline'>
+	0 of 1 member found this review helpful
+</span>
+<span class='ipsResponsive_showPhone ipsResponsive_inline'>
+	<i class='fa fa-smile-o'></i> 0 / 1 member
+</span></strong><br>
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11222" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11222_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11222' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-26552'></a>
+	<article id="elReview_26552" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-26552_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="26552" data-quoteData='{&quot;userid&quot;:106705,&quot;username&quot;:&quot;4e_3a_HuK&quot;,&quot;timestamp&quot;:1652394668,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:26552}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/106705-4e_3a_huk/" data-ipshover data-ipshover-target="https://combatace.com/profile/106705-4e_3a_huk/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to 4e_3a_HuK's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2022_05/4_member_106705.png" alt="4e_3a_HuK" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=26552' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_26552' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/106705-4e_3a_huk/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/106705-4e_3a_huk/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to 4e_3a_HuK's profile" class="ipsType_break">4e_3a_HuK</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2022-05-12T22:31:08Z' title='05/12/2022 10:31  PM' data-short='May 12'>May 12</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_off'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-26552" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+<p>
+	How to add it?
+</p>
+
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_26552_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=26552' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-26546'></a>
+	<article id="elReview_26546" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-26546_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="26546" data-quoteData='{&quot;userid&quot;:95188,&quot;username&quot;:&quot;Falcon1364&quot;,&quot;timestamp&quot;:1651158372,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:26546}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/95188-falcon1364/" data-ipshover data-ipshover-target="https://combatace.com/profile/95188-falcon1364/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Falcon1364's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/F.png.126c480431639619f5e8e9a7f92a51b2.png" alt="Falcon1364" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=26546' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_26546' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/95188-falcon1364/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/95188-falcon1364/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Falcon1364's profile" class="ipsType_break">Falcon1364</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 1
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2022-04-28T15:06:12Z' title='04/28/2022 03:06  PM' data-short='Apr 28'>April 28</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-26546" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+<p>
+	Very nice!!!!
+</p>
+
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_26546_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=26546' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11211'></a>
+	<article id="elReview_11211" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11211_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11211" data-quoteData='{&quot;userid&quot;:35296,&quot;username&quot;:&quot;FOX1313&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11211}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/35296-fox1313/" data-ipshover data-ipshover-target="https://combatace.com/profile/35296-fox1313/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to FOX1313's profile">
+		
+<img src="https://combatace.com/uploads/av-35296.jpg" alt="FOX1313" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11211' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11211' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/35296-fox1313/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/35296-fox1313/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to FOX1313's profile" class="ipsType_break">FOX1313</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 1
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11211" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11211_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11211' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11213'></a>
+	<article id="elReview_11213" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11213_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11213" data-quoteData='{&quot;userid&quot;:78171,&quot;username&quot;:&quot;warthogboy09&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11213}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/78171-warthogboy09/" data-ipshover data-ipshover-target="https://combatace.com/profile/78171-warthogboy09/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to warthogboy09's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-78171.jpg" alt="warthogboy09" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11213' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11213' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/78171-warthogboy09/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/78171-warthogboy09/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to warthogboy09's profile" class="ipsType_break">warthogboy09</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 3
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11213" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11213_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11213' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11214'></a>
+	<article id="elReview_11214" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11214_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11214" data-quoteData='{&quot;userid&quot;:51321,&quot;username&quot;:&quot;Spectre8750&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11214}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/51321-spectre8750/" data-ipshover data-ipshover-target="https://combatace.com/profile/51321-spectre8750/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Spectre8750's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-51321.jpg" alt="Spectre8750" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11214' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11214' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/51321-spectre8750/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/51321-spectre8750/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Spectre8750's profile" class="ipsType_break">Spectre8750</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 163
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11214" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11214_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11214' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11216'></a>
+	<article id="elReview_11216" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11216_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11216" data-quoteData='{&quot;userid&quot;:40730,&quot;username&quot;:&quot;MiG man&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11216}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/40730-mig-man/" data-ipshover data-ipshover-target="https://combatace.com/profile/40730-mig-man/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to MiG man's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/M.png.c340e3bc7513245e73cf31cce3a19c06.png" alt="MiG man" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11216' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11216' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/40730-mig-man/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/40730-mig-man/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to MiG man's profile" class="ipsType_break">MiG man</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11216" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11216_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11216' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11217'></a>
+	<article id="elReview_11217" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11217_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11217" data-quoteData='{&quot;userid&quot;:84722,&quot;username&quot;:&quot;jimmywildcat&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11217}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/84722-jimmywildcat/" data-ipshover data-ipshover-target="https://combatace.com/profile/84722-jimmywildcat/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to jimmywildcat's profile">
+		
+<img src="https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v1/yh/r/C5yt7Cqf3zU.jpg" alt="jimmywildcat" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11217' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11217' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/84722-jimmywildcat/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/84722-jimmywildcat/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to jimmywildcat's profile" class="ipsType_break">jimmywildcat</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11217" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11217_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11217' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11218'></a>
+	<article id="elReview_11218" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11218_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11218" data-quoteData='{&quot;userid&quot;:76407,&quot;username&quot;:&quot;acesfakia&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11218}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/76407-acesfakia/" data-ipshover data-ipshover-target="https://combatace.com/profile/76407-acesfakia/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to acesfakia's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-76407.jpg" alt="acesfakia" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11218' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11218' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/76407-acesfakia/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/76407-acesfakia/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to acesfakia's profile" class="ipsType_break">acesfakia</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 1,194
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11218" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11218_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11218' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11219'></a>
+	<article id="elReview_11219" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11219_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11219" data-quoteData='{&quot;userid&quot;:14070,&quot;username&quot;:&quot;~Brutus~&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11219}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/14070-~brutus~/" data-ipshover data-ipshover-target="https://combatace.com/profile/14070-~brutus~/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to ~Brutus~'s profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/59970e112174f_.png.ae28e4b8dbfbe28356dbc9cdb7ed7555.png" alt="~Brutus~" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11219' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11219' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/14070-~brutus~/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/14070-~brutus~/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to ~Brutus~'s profile" class="ipsType_break">~Brutus~</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11219" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11219_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11219' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11220'></a>
+	<article id="elReview_11220" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11220_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11220" data-quoteData='{&quot;userid&quot;:86512,&quot;username&quot;:&quot;facu1229&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11220}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/86512-facu1229/" data-ipshover data-ipshover-target="https://combatace.com/profile/86512-facu1229/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to facu1229's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_08/F.png.0b4670995b3aa3523b3ff12816899126.png" alt="facu1229" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11220' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11220' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/86512-facu1229/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/86512-facu1229/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to facu1229's profile" class="ipsType_break">facu1229</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 1
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11220" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11220_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11220' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11221'></a>
+	<article id="elReview_11221" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11221_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11221" data-quoteData='{&quot;userid&quot;:85780,&quot;username&quot;:&quot;raydong&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11221}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/85780-raydong/" data-ipshover data-ipshover-target="https://combatace.com/profile/85780-raydong/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to raydong's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-85780.jpg" alt="raydong" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11221' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11221' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/85780-raydong/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/85780-raydong/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to raydong's profile" class="ipsType_break">raydong</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 3
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11221" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11221_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11221' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11223'></a>
+	<article id="elReview_11223" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11223_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11223" data-quoteData='{&quot;userid&quot;:65735,&quot;username&quot;:&quot;alex71p&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11223}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/65735-alex71p/" data-ipshover data-ipshover-target="https://combatace.com/profile/65735-alex71p/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to alex71p's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-65735.jpg" alt="alex71p" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11223' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11223' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/65735-alex71p/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/65735-alex71p/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to alex71p's profile" class="ipsType_break">alex71p</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 5
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11223" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11223_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11223' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11224'></a>
+	<article id="elReview_11224" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11224_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11224" data-quoteData='{&quot;userid&quot;:85308,&quot;username&quot;:&quot;Cuervodeboedo&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11224}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/85308-cuervodeboedo/" data-ipshover data-ipshover-target="https://combatace.com/profile/85308-cuervodeboedo/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Cuervodeboedo's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2018_04/C_member_85308.png" alt="Cuervodeboedo" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11224' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11224' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/85308-cuervodeboedo/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/85308-cuervodeboedo/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Cuervodeboedo's profile" class="ipsType_break">Cuervodeboedo</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_neutral'>
+	
+			<i class='fa fa-circle'></i> 0
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11224" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11224_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11224' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11225'></a>
+	<article id="elReview_11225" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11225_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11225" data-quoteData='{&quot;userid&quot;:88857,&quot;username&quot;:&quot;Viper63a&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11225}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/88857-viper63a/" data-ipshover data-ipshover-target="https://combatace.com/profile/88857-viper63a/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Viper63a's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2017_10/Viper-3.thumb.jpg.8ebff3da363b86cd5f9effc67ae32181.jpg" alt="Viper63a" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11225' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11225' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/88857-viper63a/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/88857-viper63a/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Viper63a's profile" class="ipsType_break">Viper63a</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 631
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11225" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11225_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11225' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11226'></a>
+	<article id="elReview_11226" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11226_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11226" data-quoteData='{&quot;userid&quot;:39004,&quot;username&quot;:&quot;FANATIC MODDER&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11226}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/39004-fanatic-modder/" data-ipshover data-ipshover-target="https://combatace.com/profile/39004-fanatic-modder/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to FANATIC MODDER's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-39004.jpg" alt="FANATIC MODDER" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11226' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11226' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/39004-fanatic-modder/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/39004-fanatic-modder/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to FANATIC MODDER's profile" class="ipsType_break">FANATIC MODDER</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 103
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11226" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11226_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11226' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11227'></a>
+	<article id="elReview_11227" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11227_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11227" data-quoteData='{&quot;userid&quot;:70825,&quot;username&quot;:&quot;Menrva&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11227}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/70825-menrva/" data-ipshover data-ipshover-target="https://combatace.com/profile/70825-menrva/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Menrva's profile">
+		
+<img src="https://combatace.com/uploads/monthly_2021_08/IMG_20180531_141509_613.thumb.jpg.5541be90d39e3c98eb81178d9e786ab3.jpg" alt="Menrva" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11227' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11227' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/70825-menrva/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/70825-menrva/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Menrva's profile" class="ipsType_break">Menrva</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 3,408
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11227" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11227_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11227' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+					
+					
+					
+
+
+	<a id='review-11228'></a>
+	<article id="elReview_11228" class="ipsComment ipsComment_parent ipsClearfix ipsClear ">
+		
+<div id='review-11228_wrap' data-controller='core.front.core.comment' data-commentApp='downloads' data-commentType='downloads-review' data-commentID="11228" data-quoteData='{&quot;userid&quot;:21538,&quot;username&quot;:&quot;Coupi&quot;,&quot;timestamp&quot;:1502848072,&quot;contentapp&quot;:&quot;downloads&quot;,&quot;contenttype&quot;:&quot;downloads&quot;,&quot;contentid&quot;:9401,&quot;contentcommentid&quot;:11228}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header ipsPhotoPanel ipsPhotoPanel_small ipsPhotoPanel_notPhone'>
+		
+
+
+	<a href="https://combatace.com/profile/21538-coupi/" data-ipshover data-ipshover-target="https://combatace.com/profile/21538-coupi/?do=hovercard"  class="ipsUserPhoto ipsUserPhoto_small ipsPos_left" title="Go to Coupi's profile">
+		
+<img src="https://combatace.com/uploads/profile/photo-thumb-21538.jpg" alt="Coupi" itemprop="image"> 
+
+	</a>
+
+		<div>
+			<p class='ipsPos_right ipsType_reset'>
+				
+
+				<a class='ipsType_blendLinks' href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11228' data-ipsTooltip title='Share this review' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_11228' data-role='shareComment'><i class='fa fa-share-alt'></i></a>
+				
+			</p>
+			<h3 class="ipsComment_author ipsType_blendLinks">
+				<strong class='ipsType_normal'>
+<a href='https://combatace.com/profile/21538-coupi/' data-ipsHover data-ipsHover-target='https://combatace.com/profile/21538-coupi/?do=hovercard&amp;referrer=https%253A%252F%252Fcombatace.com%252Ffiles%252Ffile%252F9401-super-hornet-package-for-sf2-v41%252F' title="Go to Coupi's profile" class="ipsType_break">Coupi</a></strong>
+				
+
+	
+		<span title="Member's total reputation" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'>
+	
+			<i class='fa fa-plus-circle'></i> 3,969
+	
+		</span>
+	
+
+			</h3>
+			<p class="ipsComment_meta ipsType_medium ipsType_light">
+				
+					<time datetime='2017-08-16T01:47:52Z' title='08/16/2017 01:47  AM' data-short='5 yr'>August 16, 2017</time>
+				
+
+				
+				
+			</p>
+			<ul class='ipsList_inline ipsClearfix ipsRating ipsRating_large'>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+					<li class='ipsRating_on'>
+						<i class='fa fa-star'></i>
+					</li>
+				
+			</ul>&nbsp;&nbsp; 
+		</div>
+	</div>
+	<div class='ipsPad'>
+		<div id="review-11228" data-role="commentContent" class="ipsType_richText ipsType_normal ipsContained" data-controller='core.front.core.lightboxedImages'>
+			
+		</div>
+
+		
+			
+		
+
+		
+			<div class='ipsItemControls'>
+				
+					
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+				
+				
+			</div>
+		
+	</div>
+	
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_11228_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>Share this review</h4>
+			<hr class='ipsHr'>
+			<h5 class='ipsType_normal ipsType_reset'>Link to review</h5>
+			<input type='text' value='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=findReview&amp;review=11228' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>
+	</article>
+
+				
+				
+<input type="hidden" name="csrfKey" value="372db5f62786169b8ba16ab0c80dbc58" />
+
+
+			</form>
+		</div>
+		
+			<div>
+				
+
+	
+	<ul class='ipsPagination' id='elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d4d939' data-pages='2' >
+		
+			
+				<li class='ipsPagination_first ipsPagination_inactive'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/' rel="first" data-page='1' data-ipsTooltip title='First page'><i class='fa fa-angle-double-left'></i></a></li>
+				<li class='ipsPagination_prev ipsPagination_inactive'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=0' rel="prev" data-page='0' data-ipsTooltip title='Previous page'>Prev</a></li>
+			
+			<li class='ipsPagination_page ipsPagination_active'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/' data-page='1'>1</a></li>
+			
+				
+					<li class='ipsPagination_page'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2' data-page='2'>2</a></li>
+				
+				<li class='ipsPagination_next'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2' rel="next" data-page='2' data-ipsTooltip title='Next page'>Next</a></li>
+				<li class='ipsPagination_last'><a href='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?page=2' rel="last" data-page='2' data-ipsTooltip title='Last page'><i class='fa fa-angle-double-right'></i></a></li>
+			
+			
+				<li class='ipsPagination_pageJump'>
+					<a href='#' data-ipsMenu data-ipsMenu-closeOnClick='false' data-ipsMenu-appendTo='#elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d4d939' id='elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d4d939_jump'>Page 1 of 2 &nbsp;<i class='fa fa-caret-down'></i></a>
+					<div class='ipsMenu ipsMenu_narrow ipsPad ipsHide' id='elPagination_8c6be29351e64ae361fccf970cdb4cde_639df71d4d939_jump_menu'>
+						<form accept-charset='utf-8' method='post' action='https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/' data-role="pageJump">
+							<ul class='ipsForm ipsForm_horizontal'>
+								<li class='ipsFieldRow'>
+									<input type='number' min='1' max='2' placeholder='Page number' class='ipsField_fullWidth' name='page'>
+								</li>
+								<li class='ipsFieldRow ipsFieldRow_fullWidth'>
+									<input type='submit' class='ipsButton_fullWidth ipsButton ipsButton_verySmall ipsButton_primary' value='Go'>
+								</li>
+							</ul>
+						</form>
+					</div>
+				</li>
+			
+		
+	</ul>
+
+			</div>
+		
+	
+</div>
+			</div>
+		
+	
+		
+	
+</section>
+
+</div>
+	
+</div>
+
+
+						
+
+					</div>
+					
+
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover'>
+	
+		
+
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://combatace.com/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://combatace.com/'>
+				<span><i class='fa fa-home'></i> Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://combatace.com/files/'>
+						<span>Downloads <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/2-strike-fighters-by-thirdwire/'>
+						<span>Strike Fighters by Thirdwire <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/388-strike-fighters-2-series-by-thirdwire/'>
+						<span>Strike Fighters 2 Series by Thirdwire <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/430-add-on-aircraft/'>
+						<span>Add-On Aircraft <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/445-modern-era-4gen-aircraft/'>
+						<span>Modern Era (4Gen+) Aircraft <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/485-us-origin/'>
+						<span>US Origin <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://combatace.com/files/category/667-f-18/'>
+						<span>F-18 <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					Super Hornet Package for SF2 v4.1
+				
+			</li>
+		
+	</ul>
+</nav>
+				</div>
+			</div>
+			
+		</main>
+		<footer id='ipsLayout_footer' class='ipsClearfix'>
+			<div class='ipsLayout_container'>
+				
+
+
+
+	<div align='center' style='margin:0px 0px 0px 0px;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom Global Banner -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3122669538278144"
+     data-ad-slot="3007127479"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+              
+
+<ul id='elFooterSocialLinks' class='ipsList_inline ipsType_center ipsSpacer_top'>
+	
+
+	
+		<li class='cUserNav_icon'>
+			<a href='https://www.facebook.com/CombatACE.site/' target='blank' class='cShareLink cShareLink_facebook'><i class='fa fa-facebook'></i></a>
+		</li>
+	
+		<li class='cUserNav_icon'>
+			<a href='https://twitter.com/CombatACE' target='blank' class='cShareLink cShareLink_twitter'><i class='fa fa-twitter'></i></a>
+		</li>
+	
+		<li class='cUserNav_icon'>
+			<a href='https://plus.google.com/+Combatace' target='blank' class='cShareLink cShareLink_google-plus'><i class='fa fa-google-plus'></i></a>
+		</li>
+	
+
+</ul>
+
+
+<ul class='ipsList_inline ipsType_center ipsSpacer_top' id="elFooterLinks">
+	
+	
+	
+	
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//combatace.com/theme/?csrfKey=372db5f62786169b8ba16ab0c80dbc58" method="post">
+						<button type='submit' name='id' value='9' class='ipsButton ipsButton_link ipsButton_link_secondary'>CA Theme (Default)</button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//combatace.com/theme/?csrfKey=372db5f62786169b8ba16ab0c80dbc58" method="post">
+						<button type='submit' name='id' value='3' class='ipsButton ipsButton_link ipsButton_link_secondary'>OFF Theme </button>
+						</form>
+					</li>
+				
+			
+			</ul>
+		</li>
+	
+  <li><a href='/tac.html'>Conditions</a></li>
+	
+		<li><a href='https://combatace.com/privacy.html'>Privacy Policy</a></li>
+	
+	
+</ul>	
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'>Copyright Â© 2021 CombatACE.com</span>
+	<a rel='nofollow' title='Invision Community' href='https://www.invisioncommunity.com/'>Powered by Invision Community</a>
+</p>
+			</div>
+        </footer>
+		
+<div id="elMobileDrawer" class="ipsDrawer ipsHide">
+	<a href="#" class="ipsDrawer_close" data-action="close"><span>Ã—</span></a>
+	<div class="ipsDrawer_menu">
+		<div class="ipsDrawer_content">
+<ul id="elUserNav_mobile" class="ipsList_inline signed_in ipsClearfix">
+	
+
+
+</ul>
+
+			
+
+			<div class="ipsSpacer_bottom ipsPad">
+				<ul class="ipsToolList ipsToolList_vertical">
+					
+						<li>
+							<a href="https://combatace.com/login/" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Existing user? Sign In</a>
+						</li>
+						
+							<li>
+								<a href="https://combatace.com/register/" id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Sign Up</a>
+							</li>
+						
+					
+
+					
+				</ul>
+			</div>
+
+			<ul class="ipsDrawer_list">
+				
+
+				
+				
+				
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Browse</a></h4>
+								<ul class="ipsDrawer_list">
+									<li data-action="back"><a href="#">Back</a></li>
+									
+										<li><a href="https://combatace.com">Browse</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://combatace.com' >
+					Home
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/forums/' >
+					Forums
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/clubs/' >
+					Clubs
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/gallery/' >
+					Gallery
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/staff/' >
+					Staff
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/leaderboard/' >
+					Leaderboard
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/online/' >
+					Online Users
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/calendar/' >
+					Calendar
+				</a>
+			</li>
+		
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Activity</a></h4>
+								<ul class="ipsDrawer_list">
+									<li data-action="back"><a href="#">Back</a></li>
+									
+										<li><a href="https://combatace.com/discover/">Activity</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://combatace.com/discover/' >
+					All Activity
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Downloads</a></h4>
+								<ul class="ipsDrawer_list">
+									<li data-action="back"><a href="#">Back</a></li>
+									
+										<li><a href="https://combatace.com/files/">Downloads</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://combatace.com/files/' >
+					Files Portal
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://combatace.com/files/categories/' >
+					Files Categories
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Site Support</a></h4>
+								<ul class="ipsDrawer_list">
+									<li data-action="back"><a href="#">Back</a></li>
+									
+										<li><a href="https://combatace.com/support/">Site Support</a></li>
+									
+									
+									
+										
+
+
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+			</ul>
+		</div>
+	</div>
+</div>
+		
+
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//combatace.com/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//combatace.com/",
+			jsURL: "//combatace.com/applications/core/interface/js/js.php",
+			csrfKey: "372db5f62786169b8ba16ab0c80dbc58",
+			antiCache: "fbf6dc641a",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			analyticsProvider: "ga",
+			viewProfiles: true,
+			
+		};
+	</script>
+
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_global/root_library.js.ebd025786752828caba799e8c39e92dc.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_global/root_js_lang_1.js.703c10f53670e6ad33026baab9b69e68.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_global/root_framework.js.3360ecad84bd183d9aa4afe03a8e205b.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_core/global_global_core.js.eeff442e9e3f05204216f5001b3be2b4.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_global/root_front.js.0da4de96b71739a0c8a92a669dfadfb4.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_downloads/front_front_view.js.61bc4fe85bf7bd6f9432091dcdf173e9.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_core/front_front_core.js.947e6a06130cf9dfa042e30655e3c70d.js?v=fbf6dc641a' data-ips></script>
+
+
+<script type='text/javascript' src='https://combatace.com/uploads/javascript_global/root_map.js.e183bb85e833b1eb36a9a9f79cf4764b.js?v=fbf6dc641a' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('1') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"black"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+		
+	</script>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "WebApplication",
+    "operatingSystem": "N/A",
+    "url": "https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/",
+    "name": "Super Hornet Package for SF2 v4.1",
+    "description": "THIS IS NOT UNDER THE COMBATACE FREEWARE LICENSE ACCORD\n\u00a0\nYOU MAY\n\u00a0\n- Have fun with this mod- Use it as you see fit once you download it, even modify it as you see fit- Create your own textures as you see fit and upload them under your name\n\u00a0\nIF you wish to send me any modified core files (I don\u0027t need to review skins as that doesn\u0027t affect any core files) please PM me the modified files and I will check them out. There is no exception to this policy given my attitude towards staying out of jail. I will check them out and yay or nay the decision, but if I can edit any files in order to not go to jail, I will inform you and that will be it. I understand you may have information of a sensitive nature that you may have access to and frankly it does not belong in any files of this download. If that bothers you then please don\u0027t send me sensitive information, I think I\u0027ve made it clear that I\u0027m not going to jail in order to appease to players.\n\u00a0\nhttp://combatace.com...24-my-projects/\n\u00a0\nNewer skin PSD with Block I ECS (no stacks) now available for skinning needs:http://combatace.com...-skin-template/\n\u00a0\n- Fixed some glaring errors in the INI files.\n",
+    "applicationCategory": "F-18",
+    "downloadUrl": "https://combatace.com/files/file/9401-super-hornet-package-for-sf2-v41/?do=download",
+    "dateCreated": "2009-07-09T21:22:40+0000",
+    "fileSize": "170.15 MB",
+    "softwareVersion": "5.3",
+    "author": {
+        "@type": "Person",
+        "name": "EricJ",
+        "image": "https://combatace.com/uploads/profile/photo-thumb-5735.png",
+        "url": "https://combatace.com/profile/5735-ericj/"
+    },
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/ViewAction",
+            "userInteractionCount": 63668
+        },
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/DownloadAction",
+            "userInteractionCount": 11665
+        },
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/CommentAction",
+            "userInteractionCount": 43
+        },
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/ReviewAction",
+            "userInteractionCount": 31
+        }
+    ],
+    "dateModified": "2022-05-06T14:09:28+0000",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.70000000000000017763568394002504646778106689453125,
+        "reviewCount": 31,
+        "bestRating": "5"
+    },
+    "screenshot": [
+        {
+            "@type": "ImageObject",
+            "url": "https://combatace.com/applications/downloads/interface/legacy/screenshot.php?path=/monthly_09_2015/fd4e4b45695352245b439ab0e0829b4f-sf1396.jpg",
+            "thumbnail": {
+                "@type": "ImageObject",
+                "url": "https://combatace.com/applications/downloads/interface/legacy/screenshot.php?path=/monthly_09_2015/thumb-fd4e4b45695352245b439ab0e0829b4f-sf1396.jpg"
+            }
+        }
+    ],
+    "releaseNotes": "\n\u003Cul\u003E\n\t\u003Cli\u003E\n\t\t5.3\u003Cbr /\u003E\n\t\t- Tweaked radars to Wikipedia ranges (80nm for Block I jets, and 100nm for Block II jets).\u003Cbr /\u003E\n\t\t- Radar ranges for the Block IIs are a \"treat\" as I want the AIM-120D to be used efficiently with the radars\n\t\u003C/li\u003E\n\t\u003Cli\u003E\n\t\tIncluded an \"Invisible ASM\" in case you want to load pylons on the Growler instead of stores. It functions like a bomb and you can get rid of it by going to the AG submode and \"dropping\" them if you don\u0027t like it on the SMS screen.\n\t\u003C/li\u003E\n\u003C/ul\u003E\n",
+    "sameAs": "https://combatace.com/forums/topic/44114-super-hornet-package-for-sf2-v41/",
+    "commentCount": 43
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "WebSite",
+    "name": "CombatACE",
+    "url": "https://combatace.com/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://combatace.com/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "name": "CombatACE",
+    "url": "https://combatace.com/",
+    "logo": "https://combatace.com/uploads/monthly_2021_03/combatace_live.png.526f005222dd0b8adb3783bc38676a67.png",
+    "sameAs": [
+        "https://www.facebook.com/CombatACE.site/",
+        "https://twitter.com/CombatACE",
+        "https://plus.google.com/+Combatace"
+    ],
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": null,
+        "addressRegion": null,
+        "postalCode": null,
+        "addressCountry": null
+    }
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://combatace.com/files/",
+                "name": "Downloads"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://combatace.com/files/category/2-strike-fighters-by-thirdwire/",
+                "name": "Strike Fighters by Thirdwire"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://combatace.com/files/category/388-strike-fighters-2-series-by-thirdwire/",
+                "name": "Strike Fighters 2 Series by Thirdwire"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@id": "https://combatace.com/files/category/430-add-on-aircraft/",
+                "name": "Add-On Aircraft"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@id": "https://combatace.com/files/category/445-modern-era-4gen-aircraft/",
+                "name": "Modern Era (4Gen+) Aircraft"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@id": "https://combatace.com/files/category/485-us-origin/",
+                "name": "US Origin"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@id": "https://combatace.com/files/category/667-f-18/",
+                "name": "F-18"
+            }
+        }
+    ]
+}	
+</script>
+
+
+		
+			<!-- 01-22-2021 Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-17986340-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-17986340-1');
+</script>
+		
+		
+		
+		
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+<div id='elGuestTerms' class='ipsPad_half ipsJS_hide' data-role='guestTermsBar' data-controller='core.front.core.guestTerms'>
+	<div class='ipsLayout_container'>
+		<div class='ipsGrid ipsGrid_collapsePhone'>
+			<div class='ipsGrid_span10'>
+				<h2 class='ipsType_sectionHead'>Important Information</h2>
+				<p class='ipsType_reset ipsType_medium cGuestTerms_contents'>By using this site, you agree to our <a href='https://combatace.com/terms/'>Terms of Use</a>, <a href='https://combatace.com/privacy.html'>Privacy Policy</a>, and We have placed <a href='https://combatace.com/cookies/'>cookies</a> on your device to help make this website better. You can <a href='https://combatace.com/cookies/'>adjust your cookie settings</a>, otherwise we'll assume you're okay to continue..</p>
+			</div>
+			<div class='ipsGrid_span2'>
+				<a href='https://combatace.com/index.php?app=core&amp;module=system&amp;controller=terms&amp;do=dismiss&amp;ref=aHR0cHM6Ly9jb21iYXRhY2UuY29tLw==' class='ipsButton ipsButton_veryLight ipsButton_large ipsButton_fullWidth' data-action='dismissTerms'><i class='fa fa-check'></i>&nbsp; I accept</a>
+			</div>
+		</div>
+	</div>
+</div>
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+	</body>
+</html>

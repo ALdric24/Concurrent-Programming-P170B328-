@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class=" is-full hub has-default-focus theme-light" lang="en-us" dir="ltr" data-css-variable-support="true" data-authenticated="false" data-auth-status-determined="false" data-target="docs" x-ms-format-detection="none">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta property="og:title" content="Visual Studio product family documentation" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://learn.microsoft.com/en-us/visualstudio/" />
+			<meta property="og:description" content="Explore documentation for the Visual Studio family of products, including Visual Studio IDEs for Windows and Mac, Visual Studio Code, Visual Studio App Center, GitHub Codespaces, and Visual Studio Subscriptions." />
+
+	<meta property="og:image" content="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" />
+
+	<meta property="og:image:alt" content="Microsoft Logo" />
+
+	<meta name="twitter:card" content="summary" />
+
+	<meta name="twitter:site" content="@docsmsft" />
+
+	<meta name="color-scheme" content="light dark">
+
+
+	<meta name="archive_url" content="/previous-versions/visualstudio" />
+<meta name="audience" content="developer" />
+<meta name="author" content="ghogen" />
+<meta name="breadcrumb_path" content="/visualstudio/_breadcrumb/toc.json" />
+<meta name="depot_name" content="VS.docs" />
+<meta name="description" content="Explore documentation for the Visual Studio family of products, including Visual Studio IDEs for Windows and Mac, Visual Studio Code, Visual Studio App Center, GitHub Codespaces, and Visual Studio Subscriptions." />
+<meta name="document_id" content="1d1662d2-e156-6da9-4e71-fa6bcd6f96d4" />
+<meta name="document_version_independent_id" content="d8902645-87e4-2338-6cfc-9151294173b8" />
+<meta name="gitcommit" content="https://github.com/MicrosoftDocs/visualstudio-docs-pr/blob/82c319b7b4fd1313d32a403322b99aaba993eda2/docs/index.yml" />
+<meta name="locale" content="en-us" />
+<meta name="manager" content="jmartens" />
+<meta name="monikerRange" content=">=vs-2019" />
+<meta name="monikers" content="vs-2019" />
+<meta name="monikers" content="vs-2022" />
+<meta name="ms.author" content="ghogen" />
+<meta name="ms.custom" content="contperf-fy21q1, contperf-fy21q3" />
+<meta name="ms.date" content="06/13/2022" />
+<meta name="ms.manager" content="jmartens" />
+<meta name="ms.prod" content="visual-studio-windows" />
+<meta name="ms.topic" content="hub-page" />
+<meta name="original_content_git_url" content="https://github.com/MicrosoftDocs/visualstudio-docs-pr/blob/live/docs/index.yml" />
+<meta name="page_type" content="hub" />
+<meta name="recommendations" content="true" />
+<meta name="schema" content="Hub" />
+<meta name="site_name" content="Docs" />
+<meta name="summary" content="Explore documentation for the Visual Studio family of products." />
+<meta name="toc_preview" content="true" />
+<meta name="uhfHeaderId" content="MSDocsHeader-VisualStudio" />
+<meta name="updated_at" content="2022-10-07 11:03 PM" />
+
+
+
+
+	<meta name="cmProducts" content="https://authoring-docs-microsoft.poolparty.biz/devrel/4628cbd9-6f47-4ae1-b371-d34636609eaf" data-source="generated" />
+
+	
+
+	<meta name="github_feedback_content_git_url" content="https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/index.yml" />
+<link href="https://learn.microsoft.com/en-us/visualstudio/" rel="canonical">
+	<title>Visual Studio product family documentation | Microsoft Learn</title>
+
+		<link rel="stylesheet" href="/_themes/docs.theme/master/en-us/_themes/styles/aeed2be4.site-ltr.css ">
+
+	
+
+	<script id="msdocs-script">
+	var msDocs = {
+		data: {
+			timeOrigin: Date.now(),
+			contentLocale: 'en-us',
+			contentDir: 'ltr',
+			userLocale: 'en-us',
+			userDir: 'ltr',
+			pageTemplate: 'Hub',
+			brand: 'visual-studio',
+			context: {
+			},
+			hasBinaryRating: false,
+			hasGithubIssues: false,
+			standardFeedback: false,
+			showFeedbackReport: false,
+			enableTutorialFeedback: false,
+			feedbackSystem: 'GitHub',
+			feedbackGitHubRepo: 'MicrosoftDocs/visualstudio-docs',
+			feedbackProductUrl: 'https://developercommunity2.visualstudio.com/search?space=8',
+			defaultDevLang: 'csharp',
+			extendBreadcrumb: false,
+			isEditDisplayable: false,
+			hideViewSource: false,
+			hasPageActions: false,
+			hasPrintButton: false,
+			hasBookmark: false,
+			hasShare: true,
+			isPermissioned: false,
+			hasRecommendations: false,
+			contributors: [
+						{ name: "alexbuckgit", url: "https://github.com/alexbuckgit" },
+						{ name: "v-rajagt", url: "https://github.com/v-rajagt" },
+						{ name: "jmatthiesen", url: "https://github.com/jmatthiesen" },
+						{ name: "anandmeg", url: "https://github.com/anandmeg" },
+						{ name: "gregvanl", url: "https://github.com/gregvanl" },
+						{ name: "IEvangelist", url: "https://github.com/IEvangelist" },
+						{ name: "Mikejo5000", url: "https://github.com/Mikejo5000" },
+						{ name: "DCtheGeek", url: "https://github.com/DCtheGeek" },
+						{ name: "TerryGLee", url: "https://github.com/TerryGLee" },
+						{ name: "gewarren", url: "https://github.com/gewarren" },
+						{ name: "ktoliver", url: "https://github.com/ktoliver" },
+						{ name: "john-par", url: "https://github.com/john-par" },
+						{ name: "shirgoldbird", url: "https://github.com/shirgoldbird" },
+						{ name: "disimmon", url: "https://github.com/disimmon" }
+],
+		},
+		functions:{}
+	};
+	</script>
+	<script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+	<script src="https://js.monitor.azure.com/scripts/c/ms.jsll-3.min.js"></script>
+
+	<script src="/_themes/docs.theme/master/en-us/_themes/global/67a45209.deprecation.js"></script>
+		<script src="/_themes/docs.theme/master/en-us/_themes/scripts/4b524b8e.index-docs.js"></script>
+</head>
+
+<body lang="en-us" dir="ltr">
+	<div class="header-holder has-default-focus">
+		<a href="#main" class="skip-to-main-link has-outline-color-text visually-hidden-until-focused position-fixed has-inner-focus focus-visible top-0 left-0 right-0 padding-xs has-text-centered has-body-background" tabindex="1">Skip to main content</a>
+
+		<div hidden id="cookie-consent-holder"></div>
+
+		<div id="unsupported-browser" style="
+			background-color: white;
+			color: black;
+			padding: 16px;
+			border-bottom: 1px solid grey;"
+			hidden
+		>
+			<div style="max-width: 800px; margin: 0 auto;">
+				<p style="font-size: 24px">This browser is no longer supported.</p>
+				<p style="font-size: 16px; margin-top: 16px;">Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.</p>
+				<div style="margin-top: 12px;">
+					<a href="https://go.microsoft.com/fwlink/p/?LinkID=2092881 "
+						style="
+						background-color: #0078d4;
+						border: 1px solid #0078d4;
+						color: white;
+						padding: 6px 12px;
+						border-radius: 2px;
+						display: inline-block;
+						">
+Download Microsoft Edge					</a>
+					<a href="https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge"
+						style="
+							background-color: white;
+							padding: 6px 12px;
+							border: 1px solid #505050;
+							color: #171717;
+							border-radius: 2px;
+							display: inline-block;
+							">
+More info about Internet Explorer and Microsoft Edge					</a>
+				</div>
+			</div>
+
+		</div>
+		<!-- liquid-tag banners global -->
+		<div id="headerAreaHolder" data-bi-name="header">
+<header role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+	<div class="nav-bar">
+		<div class="nav-bar-brand">
+			<a itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" class="nav-bar-button">
+				<div class="nav-bar-logo has-background-image theme-display is-light" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+				<div class="nav-bar-logo has-background-image theme-display is-dark is-high-contrast" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+			</a>
+		</div>
+	</div>
+	<div class="nav-bar border-top is-hidden-mobile"></div>
+</header>		</div>
+
+
+		<div id="disclaimer-holder" class="has-overflow-hidden has-default-focus">
+			<!-- liquid-tag banners sectional -->
+		</div>
+	</div>
+
+	<div class="mainContainer  uhf-container is-full  has-default-focus" data-bi-name="body">
+
+		<div class="columns has-large-gaps is-gapless-mobile  is-gapless">
+
+
+			<!-- .primary-holder -->
+			<section class="primary-holder column ">
+				<!--div.columns -->
+				<div class="columns is-gapless-mobile has-large-gaps  is-gapless">
+
+
+					<div id="main-column" class="column ">
+
+						<main id="main" role="main" data-bi-name="content" lang="en-us" dir="ltr">
+
+
+							<div class="">
+								<button type="button" class="border contents-button button button-clear button-sm is-hidden-tablet has-inner-focus" aria-label="Contents" data-bi-name="contents-expand" data-contents-button hidden>
+									<span class="icon">
+										<span class="docon docon-editor-list-bullet" aria-hidden="true"></span>
+									</span>
+									<span class="contents-expand-title">Table of contents</span>
+								</button>
+							</div>
+
+							<!-- end mobile-contents button  -->
+
+							<div class="content ">
+
+
+								
+
+
+
+								<!-- <content> -->
+									<section id="hero" class="hero  has-background-visual-studio has-text-visual-studio-invert background-image-pattern-plus hero-xs background-image-pattern background-size-200">
+	<div class="hero-content">
+		<h1 id="hero-title" class="title">Visual Studio product family documentation</h1>
+			<p id="hero-summary" class="margin-none padding-top-xs">Explore documentation for the Visual Studio family of products.</p>
+	</div>
+</section>
+
+
+	<section id="product-directory">
+		<div class="uhf-container anchor-headings padding-block-lg">
+<div class="columns">
+	<div class="column">
+		<div id="product-cards" class="columns is-multiline " data-bi-name="hub-product-card">
+				<div class="column is-4-tablet is-4-desktop item-column" data-categories="">
+						<div class="box margin-none is-full-height padding-sm">
+								<img src="media/vs-ide-2019.svg?view=vs-2022" alt="" loading="lazy" width="48" height="48" class="image is-48x48 margin-bottom-xxs" data-linktype="relative-path">
+							<h3 id="visual-studio-0" class="font-size-h6 margin-none">Visual Studio</h3>
+							<ul class="has-line-height-reset margin-left-none margin-bottom-none margin-top-xxs">
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="windows/?view=vs-2022&amp;preserve-view=true" class="has-external-link-indicator display-block font-size-sm" data-linktype="relative-path">Visual Studio 2022 (current)</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="windows/?view=vs-2019&amp;preserve-view=true" class="has-external-link-indicator display-block font-size-sm" data-linktype="relative-path">Visual Studio 2019</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/previous-versions/visualstudio/" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Previous versions</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/visualstudio/releases/2022/release-notes" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Release notes</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://visualstudio.microsoft.com/" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Product page</a>
+									</li>
+							</ul>
+						</div>
+				</div>
+				<div class="column is-4-tablet is-4-desktop item-column" data-categories="">
+						<div class="box margin-none is-full-height padding-sm">
+								<img src="media/vs-mac-2019.svg?view=vs-2022" alt="" loading="lazy" width="48" height="48" class="image is-48x48 margin-bottom-xxs" data-linktype="relative-path">
+							<h3 id="visual-studio-for-mac-1" class="font-size-h6 margin-none">Visual Studio for Mac</h3>
+							<ul class="has-line-height-reset margin-left-none margin-bottom-none margin-top-xxs">
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/visualstudio/mac/?view=vsmac-2022&amp;preserve-view=true" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Visual Studio 2022 for Mac (current)</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/visualstudio/mac/?view=vsmac-2019&amp;preserve-view=true" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Visual Studio 2019 for Mac</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/previous-versions/visualstudio/mac/" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Previous versions</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/visualstudio/releases/2022/mac-release-notes" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Release notes</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://visualstudio.microsoft.com/vs/mac/" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Product page</a>
+									</li>
+							</ul>
+						</div>
+				</div>
+				<div class="column is-4-tablet is-4-desktop item-column" data-categories="">
+						<div class="box margin-none is-full-height padding-sm">
+								<img src="media/vs-code-logo.svg?view=vs-2022" alt="" loading="lazy" width="48" height="48" class="image is-48x48 margin-bottom-xxs" data-linktype="relative-path">
+							<h3 id="visual-studio-code-2" class="font-size-h6 margin-none">Visual Studio Code</h3>
+							<ul class="has-line-height-reset margin-left-none margin-bottom-none margin-top-xxs">
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://code.visualstudio.com/docs" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Documentation</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://code.visualstudio.com/updates" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Release notes</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://code.visualstudio.com" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Product page</a>
+									</li>
+							</ul>
+						</div>
+				</div>
+				<div class="column is-4-tablet is-4-desktop item-column" data-categories="">
+						<div class="box margin-none is-full-height padding-sm">
+								<img src="/en-us/media/logos/logo_octokitty.svg" alt="" loading="lazy" width="48" height="48" class="image is-48x48 margin-bottom-xxs" data-linktype="absolute-path">
+							<h3 id="github-codespaces-3" class="font-size-h6 margin-none">GitHub Codespaces</h3>
+							<ul class="has-line-height-reset margin-left-none margin-bottom-none margin-top-xxs">
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://docs.github.com/codespaces" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Documentation</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://code.visualstudio.com/docs/remote/codespaces/" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Use with Visual Studio Code</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://github.com/features/codespaces/" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Product page</a>
+									</li>
+							</ul>
+						</div>
+				</div>
+				<div class="column is-4-tablet is-4-desktop item-column" data-categories="">
+						<div class="box margin-none is-full-height padding-sm">
+								<img src="media/vs-mobile-center.svg?view=vs-2022" alt="" loading="lazy" width="48" height="48" class="image is-48x48 margin-bottom-xxs" data-linktype="relative-path">
+							<h3 id="visual-studio-app-center-4" class="font-size-h6 margin-none">Visual Studio App Center</h3>
+							<ul class="has-line-height-reset margin-left-none margin-bottom-none margin-top-xxs">
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/appcenter" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Documentation</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://visualstudio.microsoft.com/app-center/" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Portal</a>
+									</li>
+							</ul>
+						</div>
+				</div>
+				<div class="column is-4-tablet is-4-desktop item-column" data-categories="">
+						<div class="box margin-none is-full-height padding-sm">
+								<img src="media/vs-subscription-temp.svg?view=vs-2022" alt="" loading="lazy" width="48" height="48" class="image is-48x48 margin-bottom-xxs" data-linktype="relative-path">
+							<h3 id="visual-studio-subscriptions-5" class="font-size-h6 margin-none">Visual Studio Subscriptions</h3>
+							<ul class="has-line-height-reset margin-left-none margin-bottom-none margin-top-xxs">
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="/en-us/visualstudio/subscriptions" class="has-external-link-indicator display-block font-size-sm" data-linktype="absolute-path">Documentation</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://visualstudio.microsoft.com/subscriptions" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Info on visualstudio.com</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://my.visualstudio.com" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Subscriber portal</a>
+									</li>
+									<li class="is-unstyled margin-bottom-xxs">
+										<a href="https://manage.visualstudio.com" class="has-external-link-indicator display-block font-size-sm" data-linktype="external">Administrator portal</a>
+									</li>
+							</ul>
+						</div>
+				</div>
+		</div>
+	</div>
+</div>
+		</div>
+	</section>
+
+
+
+
+							</div>
+
+							<div id="assertive-live-region" role="alert" aria-live="assertive" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<div id="polite-live-region" role="status" aria-live="polite" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<!-- </content> -->
+
+						</main>
+
+
+
+
+						<!-- recommendations section -->
+						<!-- end recommendations section -->
+
+						<!-- feedback section -->
+						<!-- end feedback section -->
+
+						<!-- feedback report section -->
+						<!-- end feedback report section -->
+
+
+						<div class="border-top is-visible-interactive has-default-focus margin-top-sm  margin-top-none">
+
+
+
+	<footer id="footer-interactive" data-bi-name="footer" class="footer-layout">
+	<div class="display-flex is-full-height padding-right-lg-desktop">
+			<a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a>
+		<div class="margin-inline-xs flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu-interactive" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu-interactive" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon css-variable-support border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Light					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon css-variable-support display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon css-variable-support display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li>
+				<li><a data-mscc-ic="false" href="/en-us/previous-versions/" data-bi-name="archivelink">Previous Versions</a></li>
+				<li><a data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">Blog</a></li>
+				<li><a data-mscc-ic="false" href="/en-us/contribute/" data-bi-name="contributorGuide">Contribute</a></li>
+					<li><a data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy</a></li>
+				<li><a data-mscc-ic="false" href="/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a data-mscc-ic="false" href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2022</li>
+	</ul>
+</footer>
+						</div>
+
+					</div>
+
+
+				</div>
+				<!--end of div.columns -->
+
+			</section>
+			<!--end of .primary-holder -->
+
+			<!-- interactive container -->
+			<aside id="interactive-container" class="interactive-container is-visible-interactive column has-body-background-dark ">
+			</aside>
+			<!-- end of interactive container -->
+		</div>
+
+	</div>
+	<!--end of .mainContainer -->
+
+	<section class="border-top has-default-focus is-hidden-interactive margin-top-sm  margin-top-none">
+
+
+
+	<footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo">
+	<div class="display-flex is-full-height padding-right-lg-desktop">
+			<a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a>
+		<div class="margin-inline-xs flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon css-variable-support border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Light					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon css-variable-support display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon css-variable-support display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li>
+				<li><a data-mscc-ic="false" href="/en-us/previous-versions/" data-bi-name="archivelink">Previous Versions</a></li>
+				<li><a data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">Blog</a></li>
+				<li><a data-mscc-ic="false" href="/en-us/contribute/" data-bi-name="contributorGuide">Contribute</a></li>
+					<li><a data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy</a></li>
+				<li><a data-mscc-ic="false" href="/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a data-mscc-ic="false" href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2022</li>
+	</ul>
+</footer>
+	</section>
+
+	<div id="action-panel" role="region" aria-label="Action Panel" class="action-panel has-default-focus" tabindex="-1"></div>
+</body>
+</html>
