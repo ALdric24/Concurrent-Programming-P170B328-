@@ -22,10 +22,6 @@ Description:
 
 🤝 Collaborative: Contribute your own examples or improvements to enhance this resource for the community.
 
-🚀 Getting Started:
-
-Navigate to language-specific directories (e.g., CSharp, Cpp, Go, CUDA) for code samples and follow the README instructions to run examples.
-
 ✅ Contribute:
 
 Welcome contributions! Submit pull requests to expand and improve this valuable resource. Happy coding!
